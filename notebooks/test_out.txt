@@ -1,0 +1,11 @@
+	Unnamed: 0	carbon	nitrogen	electron	growth_rate
+0	3653	EX_23cump_e	EX_glu__L_e	None	8.624359286623116
+1	89122	EX_ocdca_e	EX_udpacgal_e	EX_no3_e	42.386647816854605
+2	48128	EX_fru_e	EX_udpglcur_e	EX_o2_e	43.004360557966606
+3	110091	EX_udpacgal_e	EX_LalaDgluMdapDala_e	EX_fum_e	5.856296484538268
+4	19293	EX_adn_e	EX_gsn_e	EX_dmso_e	43.813283605261866
+5	105370	EX_thr__L_e	EX_thrp_e	None	3.9487280561805824
+6	104850	EX_thr__L_e	EX_3amp_e	EX_no2_e	56.30037233400226
+7	41480	EX_din_e	EX_no2_e	EX_no3_e	1.2215853901517115
+8	60268	EX_galur_e	EX_gam6p_e	EX_no3_e	55.49101339319445
+9	69047	EX_glyc2p_e	EX_3amp_e	None	23.650260376492483
