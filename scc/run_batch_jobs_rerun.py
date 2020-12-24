@@ -1,5 +1,7 @@
 import glob
 import subprocess as sb
+import os.path
+from os import path
 
 def make_qsub(job_name,eFBAcall,modelFile,mediaFile,outFile):
     out_string = f"""#!/bin/bash -l
@@ -9,7 +11,7 @@ def make_qsub(job_name,eFBAcall,modelFile,mediaFile,outFile):
 # Specify hard time limit for the job. 
 #   The job will be aborted if it runs longer than this time.
 #   The default time, also selected here, is 12 hours.  You can increase this up to 720:00:00 for single processor jobs but your job will take longer to start.
-#$ -l h_rt=12:00:00
+#$ -l h_rt=72:00:00
 
 # Send an email when the job finishes or if it is aborted (by default no email is sent).
 #$ -m ea
@@ -42,14 +44,17 @@ for model in models:
     name = model.split('/')[-1].split('.')[0]
     name = name + '_S'
     outFile = root_dir + 'scc/output/' + name + '.txt'
-    qsub = make_qsub(name,python_efba_path,model,media_file,outFile)
-    sh_file = root_dir + 'scc/qsub/' + name + '.qsub'
-    
-    with open(sh_file,'w') as f:
-        f.write(qsub)
+    if path.exists(outFile):
+        print(name + ' is complete...skipping qsub submission..')
+    else:
+        qsub = make_qsub(name,python_efba_path,model,media_file,outFile)
+        sh_file = root_dir + 'scc/qsub/' + name + '.qsub'
+        
+        with open(sh_file,'w') as f:
+            f.write(qsub)
 
-    # call qsub file to submit job
-    sb.call('qsub ' + sh_file,shell=True)
+        # call qsub file to submit job
+        sb.call('qsub ' + sh_file,shell=True)
     
 # make and submit jobs for stoich + thermo models
 
@@ -59,11 +64,14 @@ for model in models:
     name = model.split('/')[-1].split('.')[0]
     name = name + '_ST'
     outFile = root_dir + 'scc/output/' + name + '.txt'
-    qsub = make_qsub(name,python_efba_path,model,media_file,outFile)
-    sh_file = root_dir + 'scc/qsub/' + name + '.qsub'
-    
-    with open(sh_file,'w') as f:
-        f.write(qsub)
+    if path.exists(outFile):
+        print(name + ' is complete...skipping qsub submission..')
+    else:
+        qsub = make_qsub(name,python_efba_path,model,media_file,outFile)
+        sh_file = root_dir + 'scc/qsub/' + name + '.qsub'
+        
+        with open(sh_file,'w') as f:
+            f.write(qsub)
 
-    # call qsub file to submit job
-    sb.call('qsub ' + sh_file,shell=True)
+        # call qsub file to submit job
+        sb.call('qsub ' + sh_file,shell=True)
