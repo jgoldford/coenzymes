@@ -26,6 +26,8 @@ medium.pop('EX_nh4_e')
 medium.pop('EX_o2_e')
 medium_base = medium.copy()
 
+K = 100;
+k = 0;
 obj_values = []
 for idx,row in media.iterrows():
     m = medium_base.copy();

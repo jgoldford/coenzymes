@@ -9,7 +9,7 @@ def make_qsub(job_name,eFBAcall,modelFile,mediaFile,outFile):
 # Specify hard time limit for the job. 
 #   The job will be aborted if it runs longer than this time.
 #   The default time, also selected here, is 12 hours.  You can increase this up to 720:00:00 for single processor jobs but your job will take longer to start.
-#$ -l h_rt=80:00:00
+#$ -l h_rt=12:00:00
 
 # Send an email when the job finishes or if it is aborted (by default no email is sent).
 #$ -m ea
@@ -22,6 +22,7 @@ def make_qsub(job_name,eFBAcall,modelFile,mediaFile,outFile):
 
 module load miniconda
 conda activate coenzymes
+module load gurobi
 
 """
     python_call = 'python ' + eFBAcall + ' -m ' + modelFile + ' -e ' + mediaFile + ' -o ' + outFile;
@@ -36,9 +37,9 @@ media_file = root_dir + 'assets/media.C180N93E7.txt'
 # submit job for wildtype iJO1366
 model =  root_dir + 'assets/iJO1366.xml'
 name = model.split('/')[-1].split('.')[0]
-outFile = root_dir + 'scc/output/' + name + '.txt'
+outFile = root_dir + 'scc/output_gurobi/' + name + '.txt'
 qsub = make_qsub(name,python_efba_path,model,media_file,outFile)
-sh_file = root_dir + 'scc/qsub/' + name + '.qsub'
+sh_file = root_dir + 'scc/qsub_gurobi/' + name + '.qsub'
 
 with open(sh_file,'w') as f:
     f.write(qsub)

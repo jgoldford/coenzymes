@@ -11,7 +11,7 @@ def make_qsub(job_name,eFBAcall,modelFile,mediaFile,outFile):
 # Specify hard time limit for the job. 
 #   The job will be aborted if it runs longer than this time.
 #   The default time, also selected here, is 12 hours.  You can increase this up to 720:00:00 for single processor jobs but your job will take longer to start.
-#$ -l h_rt=72:00:00
+#$ -l h_rt=96:00:00
 
 # Send an email when the job finishes or if it is aborted (by default no email is sent).
 #$ -m ea
@@ -32,7 +32,7 @@ conda activate coenzymes
 
 #root_dir = '/Users/Joshua.Goldford/Documents/GitHub/coenzymes/'
 root_dir = '/projectnb/bioinfor/SEGRE/goldford/CoenzymeSpecificity/coenzymes/'
-python_efba_path = root_dir + 'lib/run_eFBA.py'
+python_efba_path = root_dir + 'lib/run_eFBA_save.py'
 media_file = root_dir + 'assets/media.C180N93E7.txt'
 
 
