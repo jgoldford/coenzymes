@@ -1,0 +1,281 @@
+Exchange Reaction,Metabolite,Source,KEGG,BIGG ID,Compound class (level 1),Compound class (level 2),Compound class (level 3),Compound class (level 4),smap
+EX_12ppd__S_e,"(S)-Propane-1,2-diol",Carbon,C02917,12ppd__S_e,,,,,0
+EX_glcr_e,D-Glucarate,Carbon,C00818,glcr_e,,,,,0
+EX_glcur1p_e,D-Glucuronate 1-phosphate,Carbon,C05385,glcur1p_e,,,,,0
+EX_glcur_e,D-Glucuronate,Carbon,C00191,glcur_e,Carbohydrates,Monosaccharides,Sugar acids [Fig],C00191  D-Glucuronic acid,0
+EX_gln__L_e,L-Glutamine,Carbon,C00064,gln__L_e,Peptides,Amino acids,Common amino acids [Fig],C00064  Glutamine (Gln),0
+EX_glu__L_e,L-Glutamate,Carbon,C00025,glu__L_e,Peptides,Amino acids,Common amino acids [Fig],C00025  Glutamic acid (Glu),0
+EX_gly_e,Glycine,Carbon,C00037,gly_e,Peptides,Amino acids,Common amino acids [Fig],C00037  Glycine (Gly),0
+EX_glyald_e,D-Glyceraldehyde,Carbon,C00577,glyald_e,Carbohydrates,Monosaccharides,Aldoses [Fig],C00577  D-Glyceraldehyde,0
+EX_glyc2p_e,Glycerol 2-phosphate,Carbon,C02979,glyc2p_e,,,,,0
+EX_glyc3p_e,Glycerol 3-phosphate,Carbon,C00093,glyc3p_e,,,,,0
+EX_glyc__R_e,(R)-Glycerate,Carbon,C00258,glyc__R_e,,,,,0
+EX_glyc_e,Glycerol,Carbon,C00116,glyc_e,Carbohydrates,Monosaccharides,Sugar alcohols [Fig],C00116  Glycerol,0
+EX_glcn_e,D-Gluconate,Carbon,C00257,glcn_e,Carbohydrates,Monosaccharides,Sugar acids [Fig],C00257  D-Gluconic acid,0
+EX_glyclt_e,Glycolate,Carbon,C00160,glyclt_e,,,,,0
+EX_gsn_e,Guanosine,Carbon,C00387,gsn_e,Nucleic acids,Nucleosides [Fig],Ribonucleosides,C00387  Guanosine (G),0
+EX_gthrd_e,Reduced glutathione,Carbon,C00051,gthrd_e,Vitamins and cofactors,Cofactors,Coenzymes [Fig],C00051  Glutathione,0
+EX_gua_e,Guanine,Carbon,C00242,gua_e,Nucleic acids,Bases [Fig],Purines,C00242  Guanine (Gua),0
+EX_hdca_e,Hexadecanoate (n-C16:0),Carbon,C00249,hdca_e,Lipids,Fatty acids [Fig],Saturated fatty acids,C00249  Palmitic acid (16:0),0
+EX_hdcea_e,Hexadecenoate (n-C16:1),Carbon,C08362,hdcea_e,Lipids,Fatty acids [Fig],Unsaturated fatty acids,C08362  Palmitoleic acid (16:1;9),0
+EX_hxa_e,Hexanoate (n-C6:0),Carbon,C01585,hxa_e,Organic acids,Carboxylic acids [Fig],Monocarboxylic acids,C01585  Capronate; Hexanoate,0
+EX_hxan_e,Hypoxanthine,Carbon,C00262,hxan_e,,,,,0
+EX_idon__L_e,L-Idonate,Carbon,C00770,idon__L_e,,,,,0
+EX_imp_e,IMP,Carbon,C00130,imp_e,,,,,0
+EX_ins_e,Inosine,Carbon,C00294,ins_e,,,,,0
+EX_lac__D_e,D-lactate,Carbon,C00256,lac__D_e,,,,,0
+EX_gmp_e,GMP,Carbon,C00144,gmp_e,Nucleic acids,Nucleotides [Fig],Ribonucleotides,C00144  GMP,0
+EX_glc__D_e,D-Glucose,Carbon,C00031,glc__D_e,Carbohydrates,Monosaccharides,Aldoses [Fig],C00031  D-Glucose,0
+EX_gam_e,D-Glucosamine,Carbon,C00329,gam_e,Carbohydrates,Monosaccharides,Amino sugars [Fig],C00329  D-Glucosamine,0
+EX_gam6p_e,D-Glucosamine 6-phosphate,Carbon,C00352,gam6p_e,,,,,0
+EX_etoh_e,Ethanol,Carbon,C00469,etoh_e,,,,,0
+EX_f6p_e,D-fructose 6-phosphate,Carbon,C00085,f6p_e,,,,,0
+EX_fald_e,Formaldehyde,Carbon,C00067,fald_e,,,,,0
+EX_fe3dcit_e,Fe(III)dicitrate,Carbon,C06229,fe3dcit_e,,,,,0
+EX_for_e,Formate,Carbon,C00058,for_e,Organic acids,Carboxylic acids [Fig],Monocarboxylic acids,C00058  Formate; Methanoate,0
+EX_fru_e,D-Fructose,Carbon,C00095,fru_e,Carbohydrates,Monosaccharides,Ketoses [Fig],C00095  D-Fructose; Fruit sugar,0
+EX_frulys_e,Fructoselysine,Carbon,C16488,frulys_e,,,,,0
+EX_fruur_e,D-Fructuronate,Carbon,C00905,fruur_e,Carbohydrates,Monosaccharides,Sugar acids [Fig],C00905  D-Fructuronic acid,0
+EX_fuc__L_e,L-Fucose,Carbon,C01019,fuc__L_e,Carbohydrates,Monosaccharides,Deoxy sugars [Fig],C01019  L-Fucose,0
+EX_fum_e,Fumarate,Carbon,C00122,fum_e,,,,,0
+EX_g1p_e,D-Glucose 1-phosphate,Carbon,C00103,g1p_e,,,,,0
+EX_g3pc_e,Sn-Glycero-3-phosphocholine,Carbon,C00670,g3pc_e,,,,,0
+EX_g3pe_e,Sn-Glycero-3-phosphoethanolamine,Carbon,C01233,g3pe_e,,,,,0
+EX_g3pg_e,Glycerophosphoglycerol,Carbon,C03274,g3pg_e,,,,,0
+EX_g3pi_e,Sn-Glycero-3-phospho-1-inositol,Carbon,C01225,g3pi_e,,,,,0
+EX_g3ps_e,Glycerophosphoserine,Carbon,,g3ps_e,,,,,0
+EX_xylu__L_e,L-Xylulose,Carbon,C00312,xylu__L_e,Carbohydrates,Monosaccharides,Ketoses [Fig],C00312  L-Xylulose,0
+EX_gal1p_e,Alpha-D-Galactose 1-phosphate,Carbon,C00446,gal1p_e,,,,,0
+EX_gal_bD_e,Beta D-Galactose,Carbon,C00962,gal_bD_e,,,,,0
+EX_gal_e,D-Galactose,Carbon,C00124,gal_e,Carbohydrates,Monosaccharides,Aldoses [Fig],C00124  D-Galactose,0
+EX_galct__D_e,D-Galactarate,Carbon,C00879,galct__D_e,,,,,0
+EX_galctn__D_e,D-Galactonate,Carbon,C00880,galctn__D_e,,,,,0
+EX_galctn__L_e,L-Galactonate,Carbon,C15930,galctn__L_e,,,,,0
+EX_galt_e,Galactitol,Carbon,C01697,galt_e,,,,,0
+EX_galur_e,D-Galacturonate,Carbon,,galur_e,,,,,0
+EX_lac__L_e,L-Lactate,Carbon,C00186,lac__L_e,Organic acids,Carboxylic acids [Fig],Hydroxycarboxylic acids,C00186  L-Lactate; (S)-2-Hydroxypropanoate,0
+EX_lcts_e,Lactose,Carbon,C00243,lcts_e,Carbohydrates,Oligosaccharides [Fig],Disaccharides,C00243  Lactose; Milk sugar,0
+EX_lyx__L_e,L-Lyxose,Carbon,C01508,lyx__L_e,Carbohydrates,Monosaccharides,Aldoses [Fig],C01508  L-Lyxose,0
+EX_mal__D_e,D-Malate,Carbon,C00497,mal__D_e,,,,,0
+EX_sbt__D_e,D-Sorbitol,Carbon,C00794,sbt__D_e,Carbohydrates,Monosaccharides,Sugar alcohols [Fig],C00794  Sorbitol,0
+EX_ser__D_e,D-Serine,Carbon,C00740,ser__D_e,Peptides,Amino acids,Other amino acids [Fig],C00740  D-Serine,0
+EX_ser__L_e,L-Serine,Carbon,C00065,ser__L_e,Peptides,Amino acids,Common amino acids [Fig],C00065  Serine (Ser),0
+EX_succ_e,Succinate,Carbon,C00042,succ_e,Organic acids,Carboxylic acids [Fig],Dicarboxylic acids,C00042  Succinate,0
+EX_sucr_e,Sucrose,Carbon,C00089,sucr_e,Carbohydrates,Oligosaccharides [Fig],Disaccharides,C00089  Sucrose; Cane sugar,0
+EX_tartr__D_e,D-tartrate,Carbon,C02107,tartr__D_e,,,,,0
+EX_tartr__L_e,L-tartrate,Carbon,C00898,tartr__L_e,,,,,0
+EX_thr__L_e,L-Threonine,Carbon,C00188,thr__L_e,Peptides,Amino acids,Common amino acids [Fig],C00188  Threonine (Thr),0
+EX_thrp_e,L-Threonine O-3-phosphate,Carbon,C12147,thrp_e,,,,,0
+EX_thymd_e,Thymidine,Carbon,C00214,thymd_e,Nucleic acids,Nucleosides [Fig],Deoxyribonucleosides,C00214  Deoxythymidine (dT),0
+EX_tre_e,Trehalose,Carbon,C01083,tre_e,Carbohydrates,Oligosaccharides [Fig],Disaccharides,C01083  Trehalose,0
+EX_trp__L_e,L-Tryptophan,Carbon,C00078,trp__L_e,Peptides,Amino acids,Common amino acids [Fig],C00078  Tryptophan (Trp),0
+EX_ttdca_e,Tetradecanoate (n-C14:0),Carbon,C06424,ttdca_e,Lipids,Fatty acids [Fig],Saturated fatty acids,C06424  Myristic acid (14:0),0
+EX_ttdcea_e,Tetradecenoate (n-C14:1),Carbon,C06424,ttdcea_e,Lipids,Fatty acids [Fig],Saturated fatty acids,C06424  Myristic acid (14:0),0
+EX_uacgam_e,UDP-N-acetyl-D-glucosamine,Carbon,C00043,uacgam_e,,,,,0
+EX_udpacgal_e,UDP-N-acetyl-D-galactosamine,Carbon,C00203,udpacgal_e,,,,,0
+EX_udpg_e,UDPglucose,Carbon,C00029,udpg_e,Vitamins and cofactors,Cofactors,Coenzymes [Fig],C00029  UDP-glucose,0
+EX_udpgal_e,UDPgalactose,Carbon,C00052,udpgal_e,,,,,0
+EX_udpglcur_e,UDP-D-glucuronate,Carbon,C00167,udpglcur_e,,,,,0
+EX_ump_e,UMP,Carbon,C00105,ump_e,Nucleic acids,Nucleotides [Fig],Ribonucleotides,C00105  UMP,0
+EX_uri_e,Uridine,Carbon,C00299,uri_e,Nucleic acids,Nucleosides [Fig],Ribonucleosides,C00299  Uridine (U),0
+EX_xan_e,Xanthine,Carbon,C00385,xan_e,,,,,0
+EX_xmp_e,Xanthosine 5'-phosphate,Carbon,C00655,xmp_e,,,,,0
+EX_xtsn_e,Xanthosine,Carbon,C01762,xtsn_e,,,,,0
+EX_xyl__D_e,D-Xylose,Carbon,C00181,xyl__D_e,Carbohydrates,Monosaccharides,Aldoses [Fig],C00181  D-Xylose,0
+EX_rmn_e,L-Rhamnose,Carbon,C00507,rmn_e,Carbohydrates,Monosaccharides,Deoxy sugars [Fig],C00507  L-Rhamnose,0
+EX_etha_e,Ethanolamine,Carbon,C00189,etha_e,Peptides,Amines,Biogenic amines [Fig],C00189  Ethanolamine,0
+EX_rib__D_e,D-Ribose,Carbon,C00121,rib__D_e,Carbohydrates,Monosaccharides,Aldoses [Fig],C00121  D-Ribose,0
+EX_pyr_e,Pyruvate,Carbon,C00022,pyr_e,Organic acids,Carboxylic acids [Fig],2-Oxocarboxylic acids,C00022  Pyruvate; 2-Oxopropanoate,0
+EX_mal__L_e,L-Malate,Carbon,C00149,mal__L_e,Organic acids,Carboxylic acids [Fig],Hydroxycarboxylic acids,C00149  Malate; (S)-2-Hydroxybutanediate,0
+EX_malt_e,Maltose,Carbon,C00208,malt_e,Carbohydrates,Oligosaccharides [Fig],Disaccharides,C00208  Maltose; Malt sugar,0
+EX_malthx_e,Maltohexaose,Carbon,C01936,malthx_e,,,,,0
+EX_maltpt_e,Maltopentaose,Carbon,C06218,maltpt_e,,,,,0
+EX_malttr_e,Maltotriose,Carbon,C01835,malttr_e,,,,,0
+EX_maltttr_e,Maltotetraose,Carbon,C02013,maltttr_e,,,,,0
+EX_man6p_e,D-Mannose 6-phosphate,Carbon,C00275,man6p_e,,,,,0
+EX_man_e,D-Mannose,Carbon,C00159,man_e,Carbohydrates,Monosaccharides,Aldoses [Fig],C00159  D-Mannose,0
+EX_manglyc_e,2(alpha-D-Mannosyl)-D-glycerate,Carbon,C11544,manglyc_e,,,,,0
+EX_melib_e,Melibiose,Carbon,C05402,melib_e,Carbohydrates,Oligosaccharides [Fig],Disaccharides,C05402  Melibiose,0
+EX_mnl_e,D-Mannitol,Carbon,C00392,mnl_e,Carbohydrates,Monosaccharides,Sugar alcohols [Fig],C00392  Mannitol,0
+EX_ocdca_e,Octadecanoate (n-C18:0),Carbon,C01530,ocdca_e,Lipids,Fatty acids [Fig],Saturated fatty acids,C01530  Stearic acid (18:0),0
+EX_ocdcea_e,Octadecenoate (n-C18:1),Carbon,C00712,ocdcea_e,Lipids,Fatty acids [Fig],Unsaturated fatty acids,C00712  Oleic acid (18:1;9),0
+EX_octa_e,Octanoate (n-C8:0),Carbon,C06423,octa_e,Organic acids,Carboxylic acids [Fig],Monocarboxylic acids,C06423  Caprylate; Octanoate,0
+EX_orn_e,Ornithine,Carbon,C00077,orn_e,Peptides,Amino acids,Other amino acids [Fig],C00077  L-Ornithine,0
+EX_pacald_e,Phenylacetaldehyde,Carbon,C00601,pacald_e,,,,,0
+EX_peamn_e,Phenethylamine,Carbon,C05332,peamn_e,Peptides,Amines,Biogenic amines [Fig],C05332  Phenethylamine,0
+EX_ppa_e,Propionate,Carbon,C00163,ppa_e,Organic acids,Carboxylic acids [Fig],Monocarboxylic acids,C00163  Propionate; Propanoate,0
+EX_ppal_e,Propanal,Carbon,C00479,ppal_e,,,,,0
+EX_pppn_e,Phenylpropanoate,Carbon,C05629,pppn_e,,,,,0
+EX_pro__L_e,L-Proline,Carbon,C00148,pro__L_e,Peptides,Amino acids,Common amino acids [Fig],C00148  Proline (Pro),0
+EX_progly_e,L-Prolinylglycine,Carbon,,progly_e,,,,,0
+EX_psclys_e,Psicoselysine,Carbon,,psclys_e,,,,,0
+EX_pser__L_e,O-Phospho-L-serine,Carbon,C01005,pser__L_e,,,,,0
+EX_ptrc_e,Putrescine,Carbon,C00134,ptrc_e,Peptides,Amines,Biogenic amines [Fig],C00134  Putrescine,0
+EX_r5p_e,Alpha-D-Ribose 5-phosphate,Carbon,C03736,r5p_e,,,,,0
+EX_duri_e,Deoxyuridine,Carbon,C00526,duri_e,Nucleic acids,Nucleosides [Fig],Deoxyribonucleosides,C00526  Deoxyuridine (dU),0
+EX_g6p_e,D-Glucose 6-phosphate,Carbon,C00092,g6p_e,,,,,0
+EX_adn_e,Adenosine,Carbon,C00212,adn_e,Nucleic acids,Nucleosides [Fig],Ribonucleosides,C00212  Adenosine (A),0
+EX_4abut_e,4-Aminobutanoate,Carbon,C00334,4abut_e,Peptides,Amino acids,Other amino acids [Fig],C00334  gamma-Aminobutyric acid,0
+EX_amp_e,AMP,Carbon,C00020,amp_e,Nucleic acids,Nucleotides [Fig],Ribonucleotides,C00020  AMP,0
+EX_anhgm_e,N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramic acid,Carbon,,anhgm_e,,,,,0
+EX_3ump_e,3'-UMP,Carbon,C01368,3ump_e,,,,,0
+EX_3hpppn_e,3-(3-hydroxy-phenyl)propionate,Carbon,C11457,3hpppn_e,,,,,0
+EX_arab__L_e,L-Arabinose,Carbon,C00259,arab__L_e,Carbohydrates,Monosaccharides,Aldoses [Fig],C00259  L-Arabinose,0
+EX_3hcinnm_e,3-hydroxycinnamic acid,Carbon,C12621,3hcinnm_e,,,,,0
+EX_arg__L_e,L-Arginine,Carbon,C00062,arg__L_e,Peptides,Amino acids,Common amino acids [Fig],C00062  Arginine (Arg),0
+EX_3gmp_e,3'-GMP,Carbon,C06193,3gmp_e,,,,,0
+EX_ascb__L_e,L-Ascorbate,Carbon,C00072,ascb__L_e,Vitamins and cofactors,Vitamins,Water-soluble vitamins [Fig],C00072  Ascorbic acid (Vitamin C),0
+EX_asn__L_e,L-Asparagine,Carbon,C00152,asn__L_e,Peptides,Amino acids,Common amino acids [Fig],C00152  Asparagine (Asn),0
+EX_asp__L_e,L-Aspartate,Carbon,C00049,asp__L_e,Peptides,Amino acids,Common amino acids [Fig],C00049  Aspartic acid (Asp),0
+EX_but_e,Butyrate (n-C4:0),Carbon,C00246,but_e,Organic acids,Carboxylic acids [Fig],Monocarboxylic acids,C00246  Butyrate; Butanoate,0
+EX_butso3_e,Butanesulfonate,Carbon,,butso3_e,,,,,0
+EX_3cmp_e,3'-cmp,Carbon,C05822,3cmp_e,,,,,0
+EX_cgly_e,Cys-Gly,Carbon,C01419,cgly_e,,,,,0
+EX_3amp_e,3'-AMP,Carbon,C01367,3amp_e,,,,,0
+EX_alltn_e,Allantoin,Carbon,C01551,alltn_e,,,,,0
+EX_chtbs_e,Chitobiose,Carbon,C01674,chtbs_e,,,,,0
+EX_all__D_e,D-Allose,Carbon,C01487,all__D_e,Carbohydrates,Monosaccharides,Aldoses [Fig],C01487  D-Allose,0
+EX_alaala_e,D-Alanyl-D-alanine,Carbon,C00993,alaala_e,Peptides,Peptides,Dipeptides [Fig],C00993  D-Alanyl-D-alanine,0
+EX_acgam1p_e,N-Acetyl-D-glucosamine 1-phosphate,Carbon,C04256,acgam1p_e,,,,,0
+EX_acmana_e,N-Acetyl-D-mannosamine,Carbon,C00645,acmana_e,Carbohydrates,Monosaccharides,Amino sugars [Fig],C00645  N-Acetyl-D-mannosamine,0
+EX_acald_e,Acetaldehyde,Carbon,C00084,acald_e,,,,,0
+EX_acmum_e,N-Acetylmuramate,Carbon,C02713,acmum_e,Carbohydrates,Monosaccharides,Amino sugars [Fig],C02713  N-Acetylmuramic acid,0
+EX_acac_e,Acetoacetate,Carbon,C00164,acac_e,Organic acids,Carboxylic acids [Fig],3-Oxocarboxylic acids,C00164  Acetoacetate; 3-Oxobutanoate,0
+EX_ac_e,Acetate,Carbon,C00033,ac_e,Organic acids,Carboxylic acids [Fig],Monocarboxylic acids,C00033  Acetate; Ethanoate,0
+EX_LalaLglu_e,L-alanine-L-glutamate,Carbon,C20958,LalaLglu_e,,,,,0
+EX_acnam_e,N-Acetylneuraminate,Carbon,C00270,acnam_e,Carbohydrates,Monosaccharides,Amino sugars [Fig],C00270  N-Acetylneuraminic acid,0
+EX_LalaDglu_e,L-alanine-D-glutamate,Carbon,C20957,LalaDglu_e,,,,,0
+EX_ade_e,Adenine,Carbon,C00147,ade_e,Nucleic acids,Bases [Fig],Purines,C00147  Adenine (Ade),0
+EX_dump_e,DUMP,Carbon,C00365,dump_e,Nucleic acids,Nucleotides [Fig],Deoxyribonucleotides,C00365  dUMP,0
+EX_agm_e,Agmatine,Carbon,C00179,agm_e,,,,,0
+EX_LalaDgluMdap_e,"L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate",Carbon,,LalaDgluMdap_e,,,,,0
+EX_akg_e,2-Oxoglutarate,Carbon,C00026,akg_e,Organic acids,Carboxylic acids [Fig],2-Oxocarboxylic acids,C00026  2-Oxoglutarate,0
+EX_ala__D_e,D-Alanine,Carbon,C00133,ala__D_e,Peptides,Amino acids,Other amino acids [Fig],C00133  D-Alanine,0
+EX_ala__L_e,L-Alanine,Carbon,C00041,ala__L_e,Peptides,Amino acids,Common amino acids [Fig],C00041  Alanine (Ala),0
+EX_LalaDgluMdapDala_e,"L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine",Carbon,,LalaDgluMdapDala_e,,,,,0
+EX_5dglcn_e,5-Dehydro-D-gluconate,Carbon,C01062,5dglcn_e,,,,,0
+EX_2ddglcn_e,2-Dehydro-3-deoxy-D-gluconate,Carbon,C00204,2ddglcn_e,,,,,0
+EX_acgam_e,N-Acetyl-D-glucosamine,Carbon,C00140,acgam_e,Carbohydrates,Monosaccharides,Amino sugars [Fig],C00140  N-Acetyl-D-glucosamine,0
+EX_cmp_e,CMP,Carbon,C00055,cmp_e,Nucleic acids,Nucleotides [Fig],Ribonucleotides,C00055  CMP,0
+EX_ddca_e,Dodecanoate (n-C12:0),Carbon,C02679,ddca_e,Lipids,Fatty acids [Fig],Saturated fatty acids,C02679  Lauric acid (12:0),0
+EX_dgsn_e,Deoxyguanosine,Carbon,C00330,dgsn_e,Nucleic acids,Nucleosides [Fig],Deoxyribonucleosides,C00330  Deoxyguanosine (dG),0
+EX_dcyt_e,Deoxycytidine,Carbon,C00881,dcyt_e,Nucleic acids,Nucleosides [Fig],Deoxyribonucleosides,C00881  Deoxycytidine (dC),0
+EX_cit_e,Citrate,Carbon,C00158,cit_e,Organic acids,Carboxylic acids [Fig],Tricarboxylic acids,C00158  Citrate,0
+EX_23cgmp_e,"2',3'-Cyclic GMP",Carbon,C06194,23cgmp_e,Nucleic acids,Cyclic nucleotides [Fig],"2',3'-Cyclic nucleotides","C06194  2',3'-Cyclic GMP",0
+EX_23ccmp_e,"2',3'-Cyclic CMP",Carbon,C02354,23ccmp_e,Nucleic acids,Cyclic nucleotides [Fig],"2',3'-Cyclic nucleotides","C02354  2',3'-Cyclic CMP",0
+EX_dcmp_e,DCMP,Carbon,C00239,dcmp_e,Nucleic acids,Nucleotides [Fig],Deoxyribonucleotides,C00239  dCMP,0
+EX_dca_e,Decanoate (n-C10:0),Carbon,C01571,dca_e,Lipids,Fatty acids [Fig],Saturated fatty acids,C01571  Capric acid (10:0),0
+EX_dha_e,Dihydroxyacetone,Carbon,C00184,dha_e,Carbohydrates,Monosaccharides,Ketoses [Fig],C00184  Dihydroxyacetone,0
+EX_dimp_e,DIMP,Carbon,C06196,dimp_e,,,,,0
+EX_damp_e,DAMP,Carbon,C00360,damp_e,Nucleic acids,Nucleotides [Fig],Deoxyribonucleotides,C00360  dAMP,0
+EX_dad_2_e,Deoxyadenosine,Carbon,C00559,dad_2_e,Nucleic acids,Nucleosides [Fig],Deoxyribonucleosides,C00559  Deoxyadenosine (dA),0
+EX_cytd_e,Cytidine,Carbon,C00475,cytd_e,Nucleic acids,Nucleosides [Fig],Ribonucleosides,C00475  Cytidine (C),0
+EX_23cump_e,"2',3'-Cyclic UMP",Carbon,C02355,23cump_e,Nucleic acids,Cyclic nucleotides [Fig],"2',3'-Cyclic nucleotides","C02355  2',3'-Cyclic UMP",0
+EX_dgmp_e,DGMP,Carbon,C00362,dgmp_e,Nucleic acids,Nucleotides [Fig],Deoxyribonucleotides,C00362  dGMP,0
+EX_dtmp_e,DTMP,Carbon,C00364,dtmp_e,Nucleic acids,Nucleotides [Fig],Deoxyribonucleotides,C00364  dTMP,0
+EX_cys__L_e,L-Cysteine,Carbon,C00097,cys__L_e,Peptides,Amino acids,Common amino acids [Fig],C00097  Cysteine (Cys),0
+EX_14glucan_e,"1,4-alpha-D-glucan",Carbon,,14glucan_e,,,,,0
+EX_23camp_e,"2',3'-Cyclic AMP",Carbon,C02353,23camp_e,Nucleic acids,Cyclic nucleotides [Fig],"2',3'-Cyclic nucleotides","C02353  2',3'-Cyclic AMP",0
+EX_cys__D_e,D-Cysteine,Carbon,C00793,cys__D_e,Peptides,Amino acids,Other amino acids [Fig],C00793  D-Cysteine,0
+EX_23dappa_e,"2,3-diaminopropionate",Carbon,C03401,23dappa_e,,,,,0
+EX_din_e,Deoxyinosine,Carbon,C05512,din_e,,,,,0
+EX_peamn_e,Phenethylamine,Nitrogen,C05332,peamn_e,Peptides,Amines,Biogenic amines [Fig],C05332  Phenethylamine,1
+EX_LalaDgluMdap_e,"L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate",Nitrogen,,LalaDgluMdap_e,,,,,1
+EX_xtsn_e,Xanthosine,Nitrogen,C01762,xtsn_e,,,,,1
+EX_LalaDglu_e,L-alanine-D-glutamate,Nitrogen,C20957,LalaDglu_e,,,,,1
+EX_ptrc_e,Putrescine,Nitrogen,C00134,ptrc_e,Peptides,Amines,Biogenic amines [Fig],C00134  Putrescine,1
+EX_pro__L_e,L-Proline,Nitrogen,C00148,pro__L_e,Peptides,Amino acids,Common amino acids [Fig],C00148  Proline (Pro),1
+EX_xan_e,Xanthine,Nitrogen,C00385,xan_e,,,,,1
+EX_LalaLglu_e,L-alanine-L-glutamate,Nitrogen,C20958,LalaLglu_e,,,,,1
+EX_pser__L_e,O-Phospho-L-serine,Nitrogen,C01005,pser__L_e,,,,,1
+EX_uri_e,Uridine,Nitrogen,C00299,uri_e,Nucleic acids,Nucleosides [Fig],Ribonucleosides,C00299  Uridine (U),1
+EX_progly_e,L-Prolinylglycine,Nitrogen,,progly_e,,,,,1
+EX_xmp_e,Xanthosine 5'-phosphate,Nitrogen,C00655,xmp_e,,,,,1
+EX_23camp_e,"2',3'-Cyclic AMP",Nitrogen,C02353,23camp_e,Nucleic acids,Cyclic nucleotides [Fig],"2',3'-Cyclic nucleotides","C02353  2',3'-Cyclic AMP",1
+EX_4abut_e,4-Aminobutanoate,Nitrogen,C00334,4abut_e,Peptides,Amino acids,Other amino acids [Fig],C00334  gamma-Aminobutyric acid,1
+EX_LalaDgluMdapDala_e,"L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine",Nitrogen,,LalaDgluMdapDala_e,,,,,1
+EX_tym_e,Tyramine,Nitrogen,C00483,tym_e,Peptides,Amines,Biogenic amines [Fig],C00483  Tyramine,1
+EX_trp__L_e,L-Tryptophan,Nitrogen,C00078,trp__L_e,Peptides,Amino acids,Common amino acids [Fig],C00078  Tryptophan (Trp),1
+EX_3amp_e,3'-AMP,Nitrogen,C01367,3amp_e,,,,,1
+EX_23dappa_e,"2,3-diaminopropionate",Nitrogen,C03401,23dappa_e,,,,,1
+EX_uacgam_e,UDP-N-acetyl-D-glucosamine,Nitrogen,C00043,uacgam_e,,,,,1
+EX_udpacgal_e,UDP-N-acetyl-D-galactosamine,Nitrogen,C00203,udpacgal_e,,,,,1
+EX_acgam1p_e,N-Acetyl-D-glucosamine 1-phosphate,Nitrogen,C04256,acgam1p_e,,,,,1
+EX_thrp_e,L-Threonine O-3-phosphate,Nitrogen,C12147,thrp_e,,,,,1
+EX_23cump_e,"2',3'-Cyclic UMP",Nitrogen,C02355,23cump_e,Nucleic acids,Cyclic nucleotides [Fig],"2',3'-Cyclic nucleotides","C02355  2',3'-Cyclic UMP",1
+EX_23ccmp_e,"2',3'-Cyclic CMP",Nitrogen,C02354,23ccmp_e,Nucleic acids,Cyclic nucleotides [Fig],"2',3'-Cyclic nucleotides","C02354  2',3'-Cyclic CMP",1
+EX_udpg_e,UDPglucose,Nitrogen,C00029,udpg_e,Vitamins and cofactors,Cofactors,Coenzymes [Fig],C00029  UDP-glucose,1
+EX_3gmp_e,3'-GMP,Nitrogen,C06193,3gmp_e,,,,,1
+EX_udpgal_e,UDPgalactose,Nitrogen,C00052,udpgal_e,,,,,1
+EX_23cgmp_e,"2',3'-Cyclic GMP",Nitrogen,C06194,23cgmp_e,Nucleic acids,Cyclic nucleotides [Fig],"2',3'-Cyclic nucleotides","C06194  2',3'-Cyclic GMP",1
+EX_3ump_e,3'-UMP,Nitrogen,C01368,3ump_e,,,,,1
+EX_udpglcur_e,UDP-D-glucuronate,Nitrogen,C00167,udpglcur_e,,,,,1
+EX_ser__L_e,L-Serine,Nitrogen,C00065,ser__L_e,Peptides,Amino acids,Common amino acids [Fig],C00065  Serine (Ser),1
+EX_ser__D_e,D-Serine,Nitrogen,C00740,ser__D_e,Peptides,Amino acids,Other amino acids [Fig],C00740  D-Serine,1
+EX_ump_e,UMP,Nitrogen,C00105,ump_e,Nucleic acids,Nucleotides [Fig],Ribonucleotides,C00105  UMP,1
+EX_ura_e,Uracil,Nitrogen,C00106,ura_e,Nucleic acids,Bases [Fig],Pyrimidines,C00106  Uracil (Ura),1
+EX_thr__L_e,L-Threonine,Nitrogen,C00188,thr__L_e,Peptides,Amino acids,Common amino acids [Fig],C00188  Threonine (Thr),1
+EX_3cmp_e,3'-cmp,Nitrogen,C05822,3cmp_e,,,,,1
+EX_dump_e,DUMP,Nitrogen,C00365,dump_e,Nucleic acids,Nucleotides [Fig],Deoxyribonucleotides,C00365  dUMP,1
+EX_orn_e,Ornithine,Nitrogen,C00077,orn_e,Peptides,Amino acids,Other amino acids [Fig],C00077  L-Ornithine,1
+EX_gly_e,Glycine,Nitrogen,C00037,gly_e,Peptides,Amino acids,Common amino acids [Fig],C00037  Glycine (Gly),1
+EX_glu__L_e,L-Glutamate,Nitrogen,C00025,glu__L_e,Peptides,Amino acids,Common amino acids [Fig],C00025  Glutamic acid (Glu),1
+EX_cgly_e,Cys-Gly,Nitrogen,C01419,cgly_e,,,,,1
+EX_gln__L_e,L-Glutamine,Nitrogen,C00064,gln__L_e,Peptides,Amino acids,Common amino acids [Fig],C00064  Glutamine (Gln),1
+EX_chtbs_e,Chitobiose,Nitrogen,C01674,chtbs_e,,,,,1
+EX_cmp_e,CMP,Nitrogen,C00055,cmp_e,Nucleic acids,Nucleotides [Fig],Ribonucleotides,C00055  CMP,1
+EX_csn_e,Cytosine,Nitrogen,C00380,csn_e,Nucleic acids,Bases [Fig],Pyrimidines,C00380  Cytosine (Cyt),1
+EX_gam_e,D-Glucosamine,Nitrogen,C00329,gam_e,Carbohydrates,Monosaccharides,Amino sugars [Fig],C00329  D-Glucosamine,1
+EX_cynt_e,Cyanate,Nitrogen,C01417,cynt_e,,,,,1
+EX_gam6p_e,D-Glucosamine 6-phosphate,Nitrogen,C00352,gam6p_e,,,,,1
+EX_cys__D_e,D-Cysteine,Nitrogen,C00793,cys__D_e,Peptides,Amino acids,Other amino acids [Fig],C00793  D-Cysteine,1
+EX_cys__L_e,L-Cysteine,Nitrogen,C00097,cys__L_e,Peptides,Amino acids,Common amino acids [Fig],C00097  Cysteine (Cys),1
+EX_orot_e,Orotate,Nitrogen,C00295,orot_e,,,,,1
+EX_cytd_e,Cytidine,Nitrogen,C00475,cytd_e,Nucleic acids,Nucleosides [Fig],Ribonucleosides,C00475  Cytidine (C),1
+EX_damp_e,DAMP,Nitrogen,C00360,damp_e,Nucleic acids,Nucleotides [Fig],Deoxyribonucleotides,C00360  dAMP,1
+EX_g3ps_e,Glycerophosphoserine,Nitrogen,,g3ps_e,,,,,1
+EX_dcmp_e,DCMP,Nitrogen,C00239,dcmp_e,Nucleic acids,Nucleotides [Fig],Deoxyribonucleotides,C00239  dCMP,1
+EX_g3pe_e,Sn-Glycero-3-phosphoethanolamine,Nitrogen,C01233,g3pe_e,,,,,1
+EX_dcyt_e,Deoxycytidine,Nitrogen,C00881,dcyt_e,Nucleic acids,Nucleosides [Fig],Deoxyribonucleosides,C00881  Deoxycytidine (dC),1
+EX_dgmp_e,DGMP,Nitrogen,C00362,dgmp_e,Nucleic acids,Nucleotides [Fig],Deoxyribonucleotides,C00362  dGMP,1
+EX_dgsn_e,Deoxyguanosine,Nitrogen,C00330,dgsn_e,Nucleic acids,Nucleosides [Fig],Deoxyribonucleosides,C00330  Deoxyguanosine (dG),1
+EX_dimp_e,DIMP,Nitrogen,C06196,dimp_e,,,,,1
+EX_din_e,Deoxyinosine,Nitrogen,C05512,din_e,,,,,1
+EX_etha_e,Ethanolamine,Nitrogen,C00189,etha_e,Peptides,Amines,Biogenic amines [Fig],C00189  Ethanolamine,1
+EX_dopa_e,Dopamine,Nitrogen,C03758,dopa_e,Peptides,Amines,Biogenic amines [Fig],C03758  Dopamine,1
+EX_duri_e,Deoxyuridine,Nitrogen,C00526,duri_e,Nucleic acids,Nucleosides [Fig],Deoxyribonucleosides,C00526  Deoxyuridine (dU),1
+EX_dad_2_e,Deoxyadenosine,Nitrogen,C00559,dad_2_e,Nucleic acids,Nucleosides [Fig],Deoxyribonucleosides,C00559  Deoxyadenosine (dA),1
+EX_asn__L_e,L-Asparagine,Nitrogen,C00152,asn__L_e,Peptides,Amino acids,Common amino acids [Fig],C00152  Asparagine (Asn),1
+EX_asp__L_e,L-Aspartate,Nitrogen,C00049,asp__L_e,Peptides,Amino acids,Common amino acids [Fig],C00049  Aspartic acid (Asp),1
+EX_arg__L_e,L-Arginine,Nitrogen,C00062,arg__L_e,Peptides,Amino acids,Common amino acids [Fig],C00062  Arginine (Arg),1
+EX_acgam_e,N-Acetyl-D-glucosamine,Nitrogen,C00140,acgam_e,Carbohydrates,Monosaccharides,Amino sugars [Fig],C00140  N-Acetyl-D-glucosamine,1
+EX_acmana_e,N-Acetyl-D-mannosamine,Nitrogen,C00645,acmana_e,Carbohydrates,Monosaccharides,Amino sugars [Fig],C00645  N-Acetyl-D-mannosamine,1
+EX_no_e,Nitric oxide,Nitrogen,C00533,no_e,,,,,1
+EX_no3_e,Nitrate,Nitrogen,C00244,no3_e,,,,,1
+EX_no2_e,Nitrite,Nitrogen,C00088,no2_e,,,,,1
+EX_nh4_e,Ammonia,Nitrogen,C00014,nh4_e,,,,,1
+EX_acmum_e,N-Acetylmuramate,Nitrogen,C02713,acmum_e,Carbohydrates,Monosaccharides,Amino sugars [Fig],C02713  N-Acetylmuramic acid,1
+EX_acnam_e,N-Acetylneuraminate,Nitrogen,C00270,acnam_e,Carbohydrates,Monosaccharides,Amino sugars [Fig],C00270  N-Acetylneuraminic acid,1
+EX_ade_e,Adenine,Nitrogen,C00147,ade_e,Nucleic acids,Bases [Fig],Purines,C00147  Adenine (Ade),1
+EX_gmp_e,GMP,Nitrogen,C00144,gmp_e,Nucleic acids,Nucleotides [Fig],Ribonucleotides,C00144  GMP,1
+EX_agm_e,Agmatine,Nitrogen,C00179,agm_e,,,,,1
+EX_ala__D_e,D-Alanine,Nitrogen,C00133,ala__D_e,Peptides,Amino acids,Other amino acids [Fig],C00133  D-Alanine,1
+EX_adn_e,Adenosine,Nitrogen,C00212,adn_e,Nucleic acids,Nucleosides [Fig],Ribonucleosides,C00212  Adenosine (A),1
+EX_alaala_e,D-Alanyl-D-alanine,Nitrogen,C00993,alaala_e,Peptides,Peptides,Dipeptides [Fig],C00993  D-Alanyl-D-alanine,1
+EX_ins_e,Inosine,Nitrogen,C00294,ins_e,,,,,1
+EX_imp_e,IMP,Nitrogen,C00130,imp_e,,,,,1
+EX_alltn_e,Allantoin,Nitrogen,C01551,alltn_e,,,,,1
+EX_hxan_e,Hypoxanthine,Nitrogen,C00262,hxan_e,,,,,1
+EX_amp_e,AMP,Nitrogen,C00020,amp_e,Nucleic acids,Nucleotides [Fig],Ribonucleotides,C00020  AMP,1
+EX_anhgm_e,N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramic acid,Nitrogen,,anhgm_e,,,,,1
+EX_ala__L_e,L-Alanine,Nitrogen,C00041,ala__L_e,Peptides,Amino acids,Common amino acids [Fig],C00041  Alanine (Ala),1
+EX_gua_e,Guanine,Nitrogen,C00242,gua_e,Nucleic acids,Bases [Fig],Purines,C00242  Guanine (Gua),1
+EX_gsn_e,Guanosine,Nitrogen,C00387,gsn_e,Nucleic acids,Nucleosides [Fig],Ribonucleosides,C00387  Guanosine (G),1
+EX_gthrd_e,Reduced glutathione,Nitrogen,C00051,gthrd_e,Vitamins and cofactors,Cofactors,Coenzymes [Fig],C00051  Glutathione,1
+EX_tmao_e,Trimethylamine N-oxide,Electron,C01104,tmao_e,,,,,2
+EX_o2_e,O2,Electron,C00007,o2_e,,,,,2
+EX_no2_e,Nitrite,Electron,C00088,no2_e,,,,,2
+EX_no3_e,Nitrate,Electron,C00244,no3_e,,,,,2
+EX_fum_e,Fumarate,Electron,C00122,fum_e,,,,,2
+EX_dmso_e,Dimethyl sulfoxide,Electron,C11143,dmso_e,,,,,2
+,None,Electron,,,,,,,2

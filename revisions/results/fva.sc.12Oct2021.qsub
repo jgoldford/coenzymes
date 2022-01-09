@@ -1,0 +1,27 @@
+#!/bin/bash -l
+# Set SCC project
+#$ -P bioinfor
+
+# Specify hard time limit for the job. 
+#   The job will be aborted if it runs longer than this time.
+#   The default time, also selected here, is 12 hours.  You can increase this up to 720:00:00 for single processor jobs but your job will take longer to start.
+#$ -l h_rt=72:00:00
+
+# Give job a name
+#$ -N FVA_WT_SC
+
+# Combine output and error files into a single file
+#$ -j y
+
+# Add PE specifications
+#$ -pe omp 16
+
+# Add memory per core
+#$ -l mem_per_core=8G
+
+
+module load miniconda
+conda activate coenzymes
+module load gurobi
+
+python /projectnb/bioinfor/SEGRE/goldford/CoenzymeSpecificity/pytfa/tests/fva_nad_from_wt.py

@@ -1,0 +1,281 @@
+,Metabolite,Exchange Reaction,Source
+0,"(S)-Propane-1,2-diol",EX_12ppd__S_e,Carbon
+1,"1,4-alpha-D-glucan",EX_14glucan_e,Carbon
+2,"2',3'-Cyclic AMP",EX_23camp_e,Carbon
+3,"2',3'-Cyclic CMP",EX_23ccmp_e,Carbon
+4,"2',3'-Cyclic GMP",EX_23cgmp_e,Carbon
+5,"2',3'-Cyclic UMP",EX_23cump_e,Carbon
+6,"2,3-diaminopropionate",EX_23dappa_e,Carbon
+7,2-Dehydro-3-deoxy-D-gluconate,EX_2ddglcn_e,Carbon
+8,3'-AMP,EX_3amp_e,Carbon
+9,3'-cmp,EX_3cmp_e,Carbon
+10,3'-GMP,EX_3gmp_e,Carbon
+11,3-hydroxycinnamic acid,EX_3hcinnm_e,Carbon
+12,3-(3-hydroxy-phenyl)propionate,EX_3hpppn_e,Carbon
+13,3'-UMP,EX_3ump_e,Carbon
+14,4-Aminobutanoate,EX_4abut_e,Carbon
+15,5-Dehydro-D-gluconate,EX_5dglcn_e,Carbon
+16,L-alanine-D-glutamate,EX_LalaDglu_e,Carbon
+17,"L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate",EX_LalaDgluMdap_e,Carbon
+18,"L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine",EX_LalaDgluMdapDala_e,Carbon
+19,L-alanine-L-glutamate,EX_LalaLglu_e,Carbon
+20,Acetate,EX_ac_e,Carbon
+21,Acetoacetate,EX_acac_e,Carbon
+22,Acetaldehyde,EX_acald_e,Carbon
+23,N-Acetyl-D-glucosamine,EX_acgam_e,Carbon
+24,N-Acetyl-D-glucosamine 1-phosphate,EX_acgam1p_e,Carbon
+25,N-Acetyl-D-mannosamine,EX_acmana_e,Carbon
+26,N-Acetylmuramate,EX_acmum_e,Carbon
+27,N-Acetylneuraminate,EX_acnam_e,Carbon
+28,Adenine,EX_ade_e,Carbon
+29,Adenosine,EX_adn_e,Carbon
+30,Agmatine,EX_agm_e,Carbon
+31,2-Oxoglutarate,EX_akg_e,Carbon
+32,D-Alanine,EX_ala__D_e,Carbon
+33,L-Alanine,EX_ala__L_e,Carbon
+34,D-Alanyl-D-alanine,EX_alaala_e,Carbon
+35,D-Allose,EX_all__D_e,Carbon
+36,Allantoin,EX_alltn_e,Carbon
+37,AMP,EX_amp_e,Carbon
+38,N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramic acid,EX_anhgm_e,Carbon
+39,L-Arabinose,EX_arab__L_e,Carbon
+40,L-Arginine,EX_arg__L_e,Carbon
+41,L-Ascorbate,EX_ascb__L_e,Carbon
+42,L-Asparagine,EX_asn__L_e,Carbon
+43,L-Aspartate,EX_asp__L_e,Carbon
+44,Butyrate (n-C4:0),EX_but_e,Carbon
+45,Butanesulfonate,EX_butso3_e,Carbon
+46,Cys-Gly,EX_cgly_e,Carbon
+47,Chitobiose,EX_chtbs_e,Carbon
+48,Citrate,EX_cit_e,Carbon
+49,CMP,EX_cmp_e,Carbon
+50,D-Cysteine,EX_cys__D_e,Carbon
+51,L-Cysteine,EX_cys__L_e,Carbon
+52,Cytidine,EX_cytd_e,Carbon
+53,Deoxyadenosine,EX_dad_2_e,Carbon
+54,DAMP,EX_damp_e,Carbon
+55,Decanoate (n-C10:0),EX_dca_e,Carbon
+56,DCMP,EX_dcmp_e,Carbon
+57,Deoxycytidine,EX_dcyt_e,Carbon
+58,Dodecanoate (n-C12:0),EX_ddca_e,Carbon
+59,DGMP,EX_dgmp_e,Carbon
+60,Deoxyguanosine,EX_dgsn_e,Carbon
+61,Dihydroxyacetone,EX_dha_e,Carbon
+62,DIMP,EX_dimp_e,Carbon
+63,Deoxyinosine,EX_din_e,Carbon
+64,DTMP,EX_dtmp_e,Carbon
+65,DUMP,EX_dump_e,Carbon
+66,Deoxyuridine,EX_duri_e,Carbon
+67,Ethanolamine,EX_etha_e,Carbon
+68,Ethanol,EX_etoh_e,Carbon
+69,D-fructose 6-phosphate,EX_f6p_e,Carbon
+70,Formaldehyde,EX_fald_e,Carbon
+71,Fe(III)dicitrate,EX_fe3dcit_e,Carbon
+72,Formate,EX_for_e,Carbon
+73,D-Fructose,EX_fru_e,Carbon
+74,Fructoselysine,EX_frulys_e,Carbon
+75,D-Fructuronate,EX_fruur_e,Carbon
+76,L-Fucose,EX_fuc__L_e,Carbon
+77,Fumarate,EX_fum_e,Carbon
+78,D-Glucose 1-phosphate,EX_g1p_e,Carbon
+79,Sn-Glycero-3-phosphocholine,EX_g3pc_e,Carbon
+80,Sn-Glycero-3-phosphoethanolamine,EX_g3pe_e,Carbon
+81,Glycerophosphoglycerol,EX_g3pg_e,Carbon
+82,Sn-Glycero-3-phospho-1-inositol,EX_g3pi_e,Carbon
+83,Glycerophosphoserine,EX_g3ps_e,Carbon
+84,D-Glucose 6-phosphate,EX_g6p_e,Carbon
+85,D-Galactose,EX_gal_e,Carbon
+86,Beta D-Galactose,EX_gal_bD_e,Carbon
+87,Alpha-D-Galactose 1-phosphate,EX_gal1p_e,Carbon
+88,D-Galactarate,EX_galct__D_e,Carbon
+89,D-Galactonate,EX_galctn__D_e,Carbon
+90,L-Galactonate,EX_galctn__L_e,Carbon
+91,Galactitol,EX_galt_e,Carbon
+92,D-Galacturonate,EX_galur_e,Carbon
+93,D-Glucosamine,EX_gam_e,Carbon
+94,D-Glucosamine 6-phosphate,EX_gam6p_e,Carbon
+95,D-Glucose,EX_glc__D_e,Carbon
+96,D-Gluconate,EX_glcn_e,Carbon
+97,D-Glucarate,EX_glcr_e,Carbon
+98,D-Glucuronate,EX_glcur_e,Carbon
+99,D-Glucuronate 1-phosphate,EX_glcur1p_e,Carbon
+100,L-Glutamine,EX_gln__L_e,Carbon
+101,L-Glutamate,EX_glu__L_e,Carbon
+102,Glycine,EX_gly_e,Carbon
+103,D-Glyceraldehyde,EX_glyald_e,Carbon
+104,Glycerol,EX_glyc_e,Carbon
+105,(R)-Glycerate,EX_glyc__R_e,Carbon
+106,Glycerol 2-phosphate,EX_glyc2p_e,Carbon
+107,Glycerol 3-phosphate,EX_glyc3p_e,Carbon
+108,Glycolate,EX_glyclt_e,Carbon
+109,GMP,EX_gmp_e,Carbon
+110,Guanosine,EX_gsn_e,Carbon
+111,Reduced glutathione,EX_gthrd_e,Carbon
+112,Guanine,EX_gua_e,Carbon
+113,Hexadecanoate (n-C16:0),EX_hdca_e,Carbon
+114,Hexadecenoate (n-C16:1),EX_hdcea_e,Carbon
+115,Hexanoate (n-C6:0),EX_hxa_e,Carbon
+116,Hypoxanthine,EX_hxan_e,Carbon
+117,L-Idonate,EX_idon__L_e,Carbon
+118,IMP,EX_imp_e,Carbon
+119,Inosine,EX_ins_e,Carbon
+120,D-lactate,EX_lac__D_e,Carbon
+121,L-Lactate,EX_lac__L_e,Carbon
+122,Lactose,EX_lcts_e,Carbon
+123,L-Lyxose,EX_lyx__L_e,Carbon
+124,D-Malate,EX_mal__D_e,Carbon
+125,L-Malate,EX_mal__L_e,Carbon
+126,Maltose,EX_malt_e,Carbon
+127,Maltohexaose,EX_malthx_e,Carbon
+128,Maltopentaose,EX_maltpt_e,Carbon
+129,Maltotriose,EX_malttr_e,Carbon
+130,Maltotetraose,EX_maltttr_e,Carbon
+131,D-Mannose,EX_man_e,Carbon
+132,D-Mannose 6-phosphate,EX_man6p_e,Carbon
+133,2(alpha-D-Mannosyl)-D-glycerate,EX_manglyc_e,Carbon
+134,Melibiose,EX_melib_e,Carbon
+135,D-Mannitol,EX_mnl_e,Carbon
+136,Octadecanoate (n-C18:0),EX_ocdca_e,Carbon
+137,Octadecenoate (n-C18:1),EX_ocdcea_e,Carbon
+138,Octanoate (n-C8:0),EX_octa_e,Carbon
+139,Ornithine,EX_orn_e,Carbon
+140,Phenylacetaldehyde,EX_pacald_e,Carbon
+141,Phenethylamine,EX_peamn_e,Carbon
+142,Propionate,EX_ppa_e,Carbon
+143,Propanal,EX_ppal_e,Carbon
+144,Phenylpropanoate,EX_pppn_e,Carbon
+145,L-Proline,EX_pro__L_e,Carbon
+146,L-Prolinylglycine,EX_progly_e,Carbon
+147,Psicoselysine,EX_psclys_e,Carbon
+148,O-Phospho-L-serine,EX_pser__L_e,Carbon
+149,Putrescine,EX_ptrc_e,Carbon
+150,Pyruvate,EX_pyr_e,Carbon
+151,Alpha-D-Ribose 5-phosphate,EX_r5p_e,Carbon
+152,D-Ribose,EX_rib__D_e,Carbon
+153,L-Rhamnose,EX_rmn_e,Carbon
+154,D-Sorbitol,EX_sbt__D_e,Carbon
+155,D-Serine,EX_ser__D_e,Carbon
+156,L-Serine,EX_ser__L_e,Carbon
+157,Succinate,EX_succ_e,Carbon
+158,Sucrose,EX_sucr_e,Carbon
+159,D-tartrate,EX_tartr__D_e,Carbon
+160,L-tartrate,EX_tartr__L_e,Carbon
+161,L-Threonine,EX_thr__L_e,Carbon
+162,L-Threonine O-3-phosphate,EX_thrp_e,Carbon
+163,Thymidine,EX_thymd_e,Carbon
+164,Trehalose,EX_tre_e,Carbon
+165,L-Tryptophan,EX_trp__L_e,Carbon
+166,Tetradecanoate (n-C14:0),EX_ttdca_e,Carbon
+167,Tetradecenoate (n-C14:1),EX_ttdcea_e,Carbon
+168,UDP-N-acetyl-D-glucosamine,EX_uacgam_e,Carbon
+169,UDP-N-acetyl-D-galactosamine,EX_udpacgal_e,Carbon
+170,UDPglucose,EX_udpg_e,Carbon
+171,UDPgalactose,EX_udpgal_e,Carbon
+172,UDP-D-glucuronate,EX_udpglcur_e,Carbon
+173,UMP,EX_ump_e,Carbon
+174,Uridine,EX_uri_e,Carbon
+175,Xanthine,EX_xan_e,Carbon
+176,Xanthosine 5'-phosphate,EX_xmp_e,Carbon
+177,Xanthosine,EX_xtsn_e,Carbon
+178,D-Xylose,EX_xyl__D_e,Carbon
+179,L-Xylulose,EX_xylu__L_e,Carbon
+0,"2',3'-Cyclic AMP",EX_23camp_e,Nitrogen
+1,"2',3'-Cyclic CMP",EX_23ccmp_e,Nitrogen
+2,"2',3'-Cyclic GMP",EX_23cgmp_e,Nitrogen
+3,"2',3'-Cyclic UMP",EX_23cump_e,Nitrogen
+4,"2,3-diaminopropionate",EX_23dappa_e,Nitrogen
+5,3'-AMP,EX_3amp_e,Nitrogen
+6,3'-cmp,EX_3cmp_e,Nitrogen
+7,3'-GMP,EX_3gmp_e,Nitrogen
+8,3'-UMP,EX_3ump_e,Nitrogen
+9,4-Aminobutanoate,EX_4abut_e,Nitrogen
+10,"L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine",EX_LalaDgluMdapDala_e,Nitrogen
+11,"L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate",EX_LalaDgluMdap_e,Nitrogen
+12,L-alanine-D-glutamate,EX_LalaDglu_e,Nitrogen
+13,L-alanine-L-glutamate,EX_LalaLglu_e,Nitrogen
+14,N-Acetyl-D-glucosamine 1-phosphate,EX_acgam1p_e,Nitrogen
+15,N-Acetyl-D-glucosamine,EX_acgam_e,Nitrogen
+16,N-Acetyl-D-mannosamine,EX_acmana_e,Nitrogen
+17,N-Acetylmuramate,EX_acmum_e,Nitrogen
+18,N-Acetylneuraminate,EX_acnam_e,Nitrogen
+19,Adenine,EX_ade_e,Nitrogen
+20,Adenosine,EX_adn_e,Nitrogen
+21,Agmatine,EX_agm_e,Nitrogen
+22,D-Alanine,EX_ala__D_e,Nitrogen
+23,L-Alanine,EX_ala__L_e,Nitrogen
+24,D-Alanyl-D-alanine,EX_alaala_e,Nitrogen
+25,Allantoin,EX_alltn_e,Nitrogen
+26,AMP,EX_amp_e,Nitrogen
+27,N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramic acid,EX_anhgm_e,Nitrogen
+28,L-Arginine,EX_arg__L_e,Nitrogen
+29,L-Asparagine,EX_asn__L_e,Nitrogen
+30,L-Aspartate,EX_asp__L_e,Nitrogen
+31,Cys-Gly,EX_cgly_e,Nitrogen
+32,Chitobiose,EX_chtbs_e,Nitrogen
+33,CMP,EX_cmp_e,Nitrogen
+34,Cytosine,EX_csn_e,Nitrogen
+35,Cyanate,EX_cynt_e,Nitrogen
+36,D-Cysteine,EX_cys__D_e,Nitrogen
+37,L-Cysteine,EX_cys__L_e,Nitrogen
+38,Cytidine,EX_cytd_e,Nitrogen
+39,Deoxyadenosine,EX_dad_2_e,Nitrogen
+40,DAMP,EX_damp_e,Nitrogen
+41,DCMP,EX_dcmp_e,Nitrogen
+42,Deoxycytidine,EX_dcyt_e,Nitrogen
+43,DGMP,EX_dgmp_e,Nitrogen
+44,Deoxyguanosine,EX_dgsn_e,Nitrogen
+45,DIMP,EX_dimp_e,Nitrogen
+46,Deoxyinosine,EX_din_e,Nitrogen
+47,Dopamine,EX_dopa_e,Nitrogen
+48,DUMP,EX_dump_e,Nitrogen
+49,Deoxyuridine,EX_duri_e,Nitrogen
+50,Ethanolamine,EX_etha_e,Nitrogen
+51,Sn-Glycero-3-phosphoethanolamine,EX_g3pe_e,Nitrogen
+52,Glycerophosphoserine,EX_g3ps_e,Nitrogen
+53,D-Glucosamine 6-phosphate,EX_gam6p_e,Nitrogen
+54,D-Glucosamine,EX_gam_e,Nitrogen
+55,L-Glutamine,EX_gln__L_e,Nitrogen
+56,L-Glutamate,EX_glu__L_e,Nitrogen
+57,Glycine,EX_gly_e,Nitrogen
+58,GMP,EX_gmp_e,Nitrogen
+59,Guanosine,EX_gsn_e,Nitrogen
+60,Reduced glutathione,EX_gthrd_e,Nitrogen
+61,Guanine,EX_gua_e,Nitrogen
+62,Hypoxanthine,EX_hxan_e,Nitrogen
+63,IMP,EX_imp_e,Nitrogen
+64,Inosine,EX_ins_e,Nitrogen
+65,Ammonia,EX_nh4_e,Nitrogen
+66,Nitrite,EX_no2_e,Nitrogen
+67,Nitrate,EX_no3_e,Nitrogen
+68,Nitric oxide,EX_no_e,Nitrogen
+69,Ornithine,EX_orn_e,Nitrogen
+70,Orotate,EX_orot_e,Nitrogen
+71,Phenethylamine,EX_peamn_e,Nitrogen
+72,L-Proline,EX_pro__L_e,Nitrogen
+73,L-Prolinylglycine,EX_progly_e,Nitrogen
+74,O-Phospho-L-serine,EX_pser__L_e,Nitrogen
+75,Putrescine,EX_ptrc_e,Nitrogen
+76,D-Serine,EX_ser__D_e,Nitrogen
+77,L-Serine,EX_ser__L_e,Nitrogen
+78,L-Threonine,EX_thr__L_e,Nitrogen
+79,L-Threonine O-3-phosphate,EX_thrp_e,Nitrogen
+80,L-Tryptophan,EX_trp__L_e,Nitrogen
+81,Tyramine,EX_tym_e,Nitrogen
+82,UDP-N-acetyl-D-glucosamine,EX_uacgam_e,Nitrogen
+83,UDP-N-acetyl-D-galactosamine,EX_udpacgal_e,Nitrogen
+84,UDPglucose,EX_udpg_e,Nitrogen
+85,UDPgalactose,EX_udpgal_e,Nitrogen
+86,UDP-D-glucuronate,EX_udpglcur_e,Nitrogen
+87,UMP,EX_ump_e,Nitrogen
+88,Uracil,EX_ura_e,Nitrogen
+89,Uridine,EX_uri_e,Nitrogen
+90,Xanthine,EX_xan_e,Nitrogen
+91,Xanthosine 5'-phosphate,EX_xmp_e,Nitrogen
+92,Xanthosine,EX_xtsn_e,Nitrogen
+0,Trimethylamine N-oxide,EX_tmao_e,Electron
+1,Dimethyl sulfoxide,EX_dmso_e,Electron
+2,Fumarate,EX_fum_e,Electron
+3,O2,EX_o2_e,Electron
+4,Nitrite,EX_no2_e,Electron
+5,Nitrate,EX_no3_e,Electron
+6,None,NA,Electron

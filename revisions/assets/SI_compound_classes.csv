@@ -1,0 +1,204 @@
+,KEGG,Exchange Reaction,BIGG ID,Compound class (level 1),Compound class (level 2),Compound class (level 3),Compound class (level 4)
+160,C02917,EX_12ppd__S_e,12ppd__S_e,,,,
+194,,EX_14glucan_e,14glucan_e,,,,
+155,C02353,EX_23camp_e,23camp_e,Nucleic acids,Cyclic nucleotides [Fig],"2',3'-Cyclic nucleotides","C02353  2',3'-Cyclic AMP"
+156,C02354,EX_23ccmp_e,23ccmp_e,Nucleic acids,Cyclic nucleotides [Fig],"2',3'-Cyclic nucleotides","C02354  2',3'-Cyclic CMP"
+176,C06194,EX_23cgmp_e,23cgmp_e,Nucleic acids,Cyclic nucleotides [Fig],"2',3'-Cyclic nucleotides","C06194  2',3'-Cyclic GMP"
+157,C02355,EX_23cump_e,23cump_e,Nucleic acids,Cyclic nucleotides [Fig],"2',3'-Cyclic nucleotides","C02355  2',3'-Cyclic UMP"
+163,C03401,EX_23dappa_e,23dappa_e,,,,
+66,C00204,EX_2ddglcn_e,2ddglcn_e,,,,
+137,C01367,EX_3amp_e,3amp_e,,,,
+174,C05822,EX_3cmp_e,3cmp_e,,,,
+175,C06193,EX_3gmp_e,3gmp_e,,,,
+189,C12621,EX_3hcinnm_e,3hcinnm_e,,,,
+186,C11457,EX_3hpppn_e,3hpppn_e,,,,
+138,C01368,EX_3ump_e,3ump_e,,,,
+90,C00334,EX_4abut_e,4abut_e,Peptides,Amino acids,Other amino acids [Fig],C00334  gamma-Aminobutyric acid
+91,C00334,EX_4abut_e,4abut_e,Peptides,Amines,Biogenic amines [Fig],C00334  gamma-Aminobutyric acid (GABA)
+92,C00334,EX_4abut_e,4abut_e,Hormones and transmitters,Neurotransmitters [Fig],Amino acids,C00334  GABA
+132,C01062,EX_5dglcn_e,5dglcn_e,,,,
+196,,EX_LalaDgluMdapDala_e,LalaDgluMdapDala_e,,,,
+195,,EX_LalaDgluMdap_e,LalaDgluMdap_e,,,,
+192,C20957,EX_LalaDglu_e,LalaDglu_e,,,,
+193,C20958,EX_LalaLglu_e,LalaLglu_e,,,,
+9,C00033,EX_ac_e,ac_e,Organic acids,Carboxylic acids [Fig],Monocarboxylic acids,C00033  Acetate; Ethanoate
+56,C00164,EX_acac_e,acac_e,Organic acids,Carboxylic acids [Fig],3-Oxocarboxylic acids,C00164  Acetoacetate; 3-Oxobutanoate
+28,C00084,EX_acald_e,acald_e,,,,
+168,C04256,EX_acgam1p_e,acgam1p_e,,,,
+46,C00140,EX_acgam_e,acgam_e,Carbohydrates,Monosaccharides,Amino sugars [Fig],C00140  N-Acetyl-D-glucosamine
+114,C00645,EX_acmana_e,acmana_e,Carbohydrates,Monosaccharides,Amino sugars [Fig],C00645  N-Acetyl-D-mannosamine
+159,C02713,EX_acmum_e,acmum_e,Carbohydrates,Monosaccharides,Amino sugars [Fig],C02713  N-Acetylmuramic acid
+82,C00270,EX_acnam_e,acnam_e,Carbohydrates,Monosaccharides,Amino sugars [Fig],C00270  N-Acetylneuraminic acid
+48,C00147,EX_ade_e,ade_e,Nucleic acids,Bases [Fig],Purines,C00147  Adenine (Ade)
+68,C00212,EX_adn_e,adn_e,Nucleic acids,Nucleosides [Fig],Ribonucleosides,C00212  Adenosine (A)
+58,C00179,EX_agm_e,agm_e,,,,
+6,C00026,EX_akg_e,akg_e,Organic acids,Carboxylic acids [Fig],2-Oxocarboxylic acids,C00026  2-Oxoglutarate
+44,C00133,EX_ala__D_e,ala__D_e,Peptides,Amino acids,Other amino acids [Fig],C00133  D-Alanine
+12,C00041,EX_ala__L_e,ala__L_e,Peptides,Amino acids,Common amino acids [Fig],C00041  Alanine (Ala)
+129,C00993,EX_alaala_e,alaala_e,Peptides,Peptides,Dipeptides [Fig],C00993  D-Alanyl-D-alanine
+141,C01487,EX_all__D_e,all__D_e,Carbohydrates,Monosaccharides,Aldoses [Fig],C01487  D-Allose
+144,C01551,EX_alltn_e,alltn_e,,,,
+2,C00020,EX_amp_e,amp_e,Nucleic acids,Nucleotides [Fig],Ribonucleotides,C00020  AMP
+197,,EX_anhgm_e,anhgm_e,,,,
+80,C00259,EX_arab__L_e,arab__L_e,Carbohydrates,Monosaccharides,Aldoses [Fig],C00259  L-Arabinose
+21,C00062,EX_arg__L_e,arg__L_e,Peptides,Amino acids,Common amino acids [Fig],C00062  Arginine (Arg)
+25,C00072,EX_ascb__L_e,ascb__L_e,Vitamins and cofactors,Vitamins,Water-soluble vitamins [Fig],C00072  Ascorbic acid (Vitamin C)
+51,C00152,EX_asn__L_e,asn__L_e,Peptides,Amino acids,Common amino acids [Fig],C00152  Asparagine (Asn)
+15,C00049,EX_asp__L_e,asp__L_e,Peptides,Amino acids,Common amino acids [Fig],C00049  Aspartic acid (Asp)
+16,C00049,EX_asp__L_e,asp__L_e,Hormones and transmitters,Neurotransmitters [Fig],Amino acids,C00049  Aspartate
+74,C00246,EX_but_e,but_e,Organic acids,Carboxylic acids [Fig],Monocarboxylic acids,C00246  Butyrate; Butanoate
+75,C00246,EX_but_e,but_e,Lipids,Fatty acids [Fig],Saturated fatty acids,C00246  Butyric acid (4:0)
+198,,EX_butso3_e,butso3_e,,,,
+140,C01419,EX_cgly_e,cgly_e,,,,
+148,C01674,EX_chtbs_e,chtbs_e,,,,
+52,C00158,EX_cit_e,cit_e,Organic acids,Carboxylic acids [Fig],Tricarboxylic acids,C00158  Citrate
+19,C00055,EX_cmp_e,cmp_e,Nucleic acids,Nucleotides [Fig],Ribonucleotides,C00055  CMP
+98,C00380,EX_csn_e,csn_e,Nucleic acids,Bases [Fig],Pyrimidines,C00380  Cytosine (Cyt)
+139,C01417,EX_cynt_e,cynt_e,,,,
+120,C00793,EX_cys__D_e,cys__D_e,Peptides,Amino acids,Other amino acids [Fig],C00793  D-Cysteine
+35,C00097,EX_cys__L_e,cys__L_e,Peptides,Amino acids,Common amino acids [Fig],C00097  Cysteine (Cys)
+104,C00475,EX_cytd_e,cytd_e,Nucleic acids,Nucleosides [Fig],Ribonucleosides,C00475  Cytidine (C)
+111,C00559,EX_dad_2_e,dad_2_e,Nucleic acids,Nucleosides [Fig],Deoxyribonucleosides,C00559  Deoxyadenosine (dA)
+94,C00360,EX_damp_e,damp_e,Nucleic acids,Nucleotides [Fig],Deoxyribonucleotides,C00360  dAMP
+145,C01571,EX_dca_e,dca_e,Lipids,Fatty acids [Fig],Saturated fatty acids,C01571  Capric acid (10:0)
+70,C00239,EX_dcmp_e,dcmp_e,Nucleic acids,Nucleotides [Fig],Deoxyribonucleotides,C00239  dCMP
+125,C00881,EX_dcyt_e,dcyt_e,Nucleic acids,Nucleosides [Fig],Deoxyribonucleosides,C00881  Deoxycytidine (dC)
+158,C02679,EX_ddca_e,ddca_e,Lipids,Fatty acids [Fig],Saturated fatty acids,C02679  Lauric acid (12:0)
+95,C00362,EX_dgmp_e,dgmp_e,Nucleic acids,Nucleotides [Fig],Deoxyribonucleotides,C00362  dGMP
+89,C00330,EX_dgsn_e,dgsn_e,Nucleic acids,Nucleosides [Fig],Deoxyribonucleosides,C00330  Deoxyguanosine (dG)
+60,C00184,EX_dha_e,dha_e,Carbohydrates,Monosaccharides,Ketoses [Fig],C00184  Dihydroxyacetone
+177,C06196,EX_dimp_e,dimp_e,,,,
+172,C05512,EX_din_e,din_e,,,,
+185,C11143,EX_dmso_e,dmso_e,,,,
+165,C03758,EX_dopa_e,dopa_e,Peptides,Amines,Biogenic amines [Fig],C03758  Dopamine
+166,C03758,EX_dopa_e,dopa_e,Hormones and transmitters,Other hormones,Dopamine,C03758  Dopamine
+167,C03758,EX_dopa_e,dopa_e,Hormones and transmitters,Neurotransmitters [Fig],Biogenic amines,C03758  Dopamine
+96,C00364,EX_dtmp_e,dtmp_e,Nucleic acids,Nucleotides [Fig],Deoxyribonucleotides,C00364  dTMP
+97,C00365,EX_dump_e,dump_e,Nucleic acids,Nucleotides [Fig],Deoxyribonucleotides,C00365  dUMP
+109,C00526,EX_duri_e,duri_e,Nucleic acids,Nucleosides [Fig],Deoxyribonucleosides,C00526  Deoxyuridine (dU)
+63,C00189,EX_etha_e,etha_e,Peptides,Amines,Biogenic amines [Fig],C00189  Ethanolamine
+103,C00469,EX_etoh_e,etoh_e,,,,
+29,C00085,EX_f6p_e,f6p_e,,,,
+24,C00067,EX_fald_e,fald_e,,,,
+179,C06229,EX_fe3dcit_e,fe3dcit_e,,,,
+20,C00058,EX_for_e,for_e,Organic acids,Carboxylic acids [Fig],Monocarboxylic acids,C00058  Formate; Methanoate
+34,C00095,EX_fru_e,fru_e,Carbohydrates,Monosaccharides,Ketoses [Fig],C00095  D-Fructose; Fruit sugar
+191,C16488,EX_frulys_e,frulys_e,,,,
+127,C00905,EX_fruur_e,fruur_e,Carbohydrates,Monosaccharides,Sugar acids [Fig],C00905  D-Fructuronic acid
+131,C01019,EX_fuc__L_e,fuc__L_e,Carbohydrates,Monosaccharides,Deoxy sugars [Fig],C01019  L-Fucose
+41,C00122,EX_fum_e,fum_e,,,,
+36,C00103,EX_g1p_e,g1p_e,,,,
+116,C00670,EX_g3pc_e,g3pc_e,,,,
+136,C01233,EX_g3pe_e,g3pe_e,,,,
+162,C03274,EX_g3pg_e,g3pg_e,,,,
+135,C01225,EX_g3pi_e,g3pi_e,,,,
+199,,EX_g3ps_e,g3ps_e,,,,
+32,C00092,EX_g6p_e,g6p_e,,,,
+102,C00446,EX_gal1p_e,gal1p_e,,,,
+128,C00962,EX_gal_bD_e,gal_bD_e,,,,
+42,C00124,EX_gal_e,gal_e,Carbohydrates,Monosaccharides,Aldoses [Fig],C00124  D-Galactose
+123,C00879,EX_galct__D_e,galct__D_e,,,,
+124,C00880,EX_galctn__D_e,galctn__D_e,,,,
+190,C15930,EX_galctn__L_e,galctn__L_e,,,,
+149,C01697,EX_galt_e,galt_e,,,,
+200,,EX_galur_e,galur_e,,,,
+93,C00352,EX_gam6p_e,gam6p_e,,,,
+88,C00329,EX_gam_e,gam_e,Carbohydrates,Monosaccharides,Amino sugars [Fig],C00329  D-Glucosamine
+8,C00031,EX_glc__D_e,glc__D_e,Carbohydrates,Monosaccharides,Aldoses [Fig],C00031  D-Glucose
+78,C00257,EX_glcn_e,glcn_e,Carbohydrates,Monosaccharides,Sugar acids [Fig],C00257  D-Gluconic acid
+122,C00818,EX_glcr_e,glcr_e,,,,
+170,C05385,EX_glcur1p_e,glcur1p_e,,,,
+64,C00191,EX_glcur_e,glcur_e,Carbohydrates,Monosaccharides,Sugar acids [Fig],C00191  D-Glucuronic acid
+22,C00064,EX_gln__L_e,gln__L_e,Peptides,Amino acids,Common amino acids [Fig],C00064  Glutamine (Gln)
+4,C00025,EX_glu__L_e,glu__L_e,Peptides,Amino acids,Common amino acids [Fig],C00025  Glutamic acid (Glu)
+5,C00025,EX_glu__L_e,glu__L_e,Hormones and transmitters,Neurotransmitters [Fig],Amino acids,C00025  Glutamate
+10,C00037,EX_gly_e,gly_e,Peptides,Amino acids,Common amino acids [Fig],C00037  Glycine (Gly)
+11,C00037,EX_gly_e,gly_e,Hormones and transmitters,Neurotransmitters [Fig],Amino acids,C00037  Glycine
+112,C00577,EX_glyald_e,glyald_e,Carbohydrates,Monosaccharides,Aldoses [Fig],C00577  D-Glyceraldehyde
+161,C02979,EX_glyc2p_e,glyc2p_e,,,,
+33,C00093,EX_glyc3p_e,glyc3p_e,,,,
+79,C00258,EX_glyc__R_e,glyc__R_e,,,,
+39,C00116,EX_glyc_e,glyc_e,Carbohydrates,Monosaccharides,Sugar alcohols [Fig],C00116  Glycerol
+54,C00160,EX_glyclt_e,glyclt_e,,,,
+47,C00144,EX_gmp_e,gmp_e,Nucleic acids,Nucleotides [Fig],Ribonucleotides,C00144  GMP
+100,C00387,EX_gsn_e,gsn_e,Nucleic acids,Nucleosides [Fig],Ribonucleosides,C00387  Guanosine (G)
+17,C00051,EX_gthrd_e,gthrd_e,Vitamins and cofactors,Cofactors,Coenzymes [Fig],C00051  Glutathione
+71,C00242,EX_gua_e,gua_e,Nucleic acids,Bases [Fig],Purines,C00242  Guanine (Gua)
+76,C00249,EX_hdca_e,hdca_e,Lipids,Fatty acids [Fig],Saturated fatty acids,C00249  Palmitic acid (16:0)
+184,C08362,EX_hdcea_e,hdcea_e,Lipids,Fatty acids [Fig],Unsaturated fatty acids,C08362  Palmitoleic acid (16:1;9)
+147,C01585,EX_hxa_e,hxa_e,Lipids,Fatty acids [Fig],Saturated fatty acids,C01585  Caproic acid (6:0)
+146,C01585,EX_hxa_e,hxa_e,Organic acids,Carboxylic acids [Fig],Monocarboxylic acids,C01585  Capronate; Hexanoate
+81,C00262,EX_hxan_e,hxan_e,,,,
+119,C00770,EX_idon__L_e,idon__L_e,,,,
+43,C00130,EX_imp_e,imp_e,,,,
+84,C00294,EX_ins_e,ins_e,,,,
+77,C00256,EX_lac__D_e,lac__D_e,,,,
+61,C00186,EX_lac__L_e,lac__L_e,Organic acids,Carboxylic acids [Fig],Hydroxycarboxylic acids,C00186  L-Lactate; (S)-2-Hydroxypropanoate
+72,C00243,EX_lcts_e,lcts_e,Carbohydrates,Oligosaccharides [Fig],Disaccharides,C00243  Lactose; Milk sugar
+142,C01508,EX_lyx__L_e,lyx__L_e,Carbohydrates,Monosaccharides,Aldoses [Fig],C01508  L-Lyxose
+107,C00497,EX_mal__D_e,mal__D_e,,,,
+50,C00149,EX_mal__L_e,mal__L_e,Organic acids,Carboxylic acids [Fig],Hydroxycarboxylic acids,C00149  Malate; (S)-2-Hydroxybutanediate
+67,C00208,EX_malt_e,malt_e,Carbohydrates,Oligosaccharides [Fig],Disaccharides,C00208  Maltose; Malt sugar
+152,C01936,EX_malthx_e,malthx_e,,,,
+178,C06218,EX_maltpt_e,maltpt_e,,,,
+151,C01835,EX_malttr_e,malttr_e,,,,
+153,C02013,EX_maltttr_e,maltttr_e,,,,
+83,C00275,EX_man6p_e,man6p_e,,,,
+53,C00159,EX_man_e,man_e,Carbohydrates,Monosaccharides,Aldoses [Fig],C00159  D-Mannose
+187,C11544,EX_manglyc_e,manglyc_e,,,,
+171,C05402,EX_melib_e,melib_e,Carbohydrates,Oligosaccharides [Fig],Disaccharides,C05402  Melibiose
+101,C00392,EX_mnl_e,mnl_e,Carbohydrates,Monosaccharides,Sugar alcohols [Fig],C00392  Mannitol
+1,C00014,EX_nh4_e,nh4_e,,,,
+30,C00088,EX_no2_e,no2_e,,,,
+73,C00244,EX_no3_e,no3_e,,,,
+110,C00533,EX_no_e,no_e,,,,
+0,C00007,EX_o2_e,o2_e,,,,
+143,C01530,EX_ocdca_e,ocdca_e,Lipids,Fatty acids [Fig],Saturated fatty acids,C01530  Stearic acid (18:0)
+117,C00712,EX_ocdcea_e,ocdcea_e,Lipids,Fatty acids [Fig],Unsaturated fatty acids,C00712  Oleic acid (18:1;9)
+180,C06423,EX_octa_e,octa_e,Organic acids,Carboxylic acids [Fig],Monocarboxylic acids,C06423  Caprylate; Octanoate
+181,C06423,EX_octa_e,octa_e,Lipids,Fatty acids [Fig],Saturated fatty acids,C06423  Caprylic acid (8:0)
+26,C00077,EX_orn_e,orn_e,Peptides,Amino acids,Other amino acids [Fig],C00077  L-Ornithine
+85,C00295,EX_orot_e,orot_e,,,,
+113,C00601,EX_pacald_e,pacald_e,,,,
+169,C05332,EX_peamn_e,peamn_e,Peptides,Amines,Biogenic amines [Fig],C05332  Phenethylamine
+55,C00163,EX_ppa_e,ppa_e,Organic acids,Carboxylic acids [Fig],Monocarboxylic acids,C00163  Propionate; Propanoate
+105,C00479,EX_ppal_e,ppal_e,,,,
+173,C05629,EX_pppn_e,pppn_e,,,,
+49,C00148,EX_pro__L_e,pro__L_e,Peptides,Amino acids,Common amino acids [Fig],C00148  Proline (Pro)
+201,,EX_progly_e,progly_e,,,,
+202,,EX_psclys_e,psclys_e,,,,
+130,C01005,EX_pser__L_e,pser__L_e,,,,
+45,C00134,EX_ptrc_e,ptrc_e,Peptides,Amines,Biogenic amines [Fig],C00134  Putrescine
+3,C00022,EX_pyr_e,pyr_e,Organic acids,Carboxylic acids [Fig],2-Oxocarboxylic acids,C00022  Pyruvate; 2-Oxopropanoate
+164,C03736,EX_r5p_e,r5p_e,,,,
+40,C00121,EX_rib__D_e,rib__D_e,Carbohydrates,Monosaccharides,Aldoses [Fig],C00121  D-Ribose
+108,C00507,EX_rmn_e,rmn_e,Carbohydrates,Monosaccharides,Deoxy sugars [Fig],C00507  L-Rhamnose
+121,C00794,EX_sbt__D_e,sbt__D_e,Carbohydrates,Monosaccharides,Sugar alcohols [Fig],C00794  Sorbitol
+118,C00740,EX_ser__D_e,ser__D_e,Peptides,Amino acids,Other amino acids [Fig],C00740  D-Serine
+23,C00065,EX_ser__L_e,ser__L_e,Peptides,Amino acids,Common amino acids [Fig],C00065  Serine (Ser)
+13,C00042,EX_succ_e,succ_e,Organic acids,Carboxylic acids [Fig],Dicarboxylic acids,C00042  Succinate
+31,C00089,EX_sucr_e,sucr_e,Carbohydrates,Oligosaccharides [Fig],Disaccharides,C00089  Sucrose; Cane sugar
+154,C02107,EX_tartr__D_e,tartr__D_e,,,,
+126,C00898,EX_tartr__L_e,tartr__L_e,,,,
+62,C00188,EX_thr__L_e,thr__L_e,Peptides,Amino acids,Common amino acids [Fig],C00188  Threonine (Thr)
+188,C12147,EX_thrp_e,thrp_e,,,,
+69,C00214,EX_thymd_e,thymd_e,Nucleic acids,Nucleosides [Fig],Deoxyribonucleosides,C00214  Deoxythymidine (dT)
+134,C01104,EX_tmao_e,tmao_e,,,,
+133,C01083,EX_tre_e,tre_e,Carbohydrates,Oligosaccharides [Fig],Disaccharides,C01083  Trehalose
+27,C00078,EX_trp__L_e,trp__L_e,Peptides,Amino acids,Common amino acids [Fig],C00078  Tryptophan (Trp)
+182,C06424,EX_ttdca_e,ttdca_e,Lipids,Fatty acids [Fig],Saturated fatty acids,C06424  Myristic acid (14:0)
+183,C06424,EX_ttdcea_e,ttdcea_e,Lipids,Fatty acids [Fig],Saturated fatty acids,C06424  Myristic acid (14:0)
+106,C00483,EX_tym_e,tym_e,Peptides,Amines,Biogenic amines [Fig],C00483  Tyramine
+14,C00043,EX_uacgam_e,uacgam_e,,,,
+65,C00203,EX_udpacgal_e,udpacgal_e,,,,
+7,C00029,EX_udpg_e,udpg_e,Vitamins and cofactors,Cofactors,Coenzymes [Fig],C00029  UDP-glucose
+18,C00052,EX_udpgal_e,udpgal_e,,,,
+57,C00167,EX_udpglcur_e,udpglcur_e,,,,
+37,C00105,EX_ump_e,ump_e,Nucleic acids,Nucleotides [Fig],Ribonucleotides,C00105  UMP
+38,C00106,EX_ura_e,ura_e,Nucleic acids,Bases [Fig],Pyrimidines,C00106  Uracil (Ura)
+86,C00299,EX_uri_e,uri_e,Nucleic acids,Nucleosides [Fig],Ribonucleosides,C00299  Uridine (U)
+99,C00385,EX_xan_e,xan_e,,,,
+115,C00655,EX_xmp_e,xmp_e,,,,
+150,C01762,EX_xtsn_e,xtsn_e,,,,
+59,C00181,EX_xyl__D_e,xyl__D_e,Carbohydrates,Monosaccharides,Aldoses [Fig],C00181  D-Xylose
+87,C00312,EX_xylu__L_e,xylu__L_e,Carbohydrates,Monosaccharides,Ketoses [Fig],C00312  L-Xylulose

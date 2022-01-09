@@ -1,0 +1,122 @@
+gene id,gene name,uniprot,KO,Redundancy,Unique oxidoreductase reactions,iJO1344-reactions,Structure,Coenzyme Bound Structure,Homolog-Species,Homolog-KEGG,Homolog-Uniprot,Residues,Coenzyme,% Identity,Notes
+b0002,thrA,P00561,K12524,Not unique,,,6MX1,6DZS,Mycolicibacterium hassiacum DSM 44199,has:MHAS_02717,K5BJC9,R50;R51;R56,NADP,,hom; 
+b0031,dapB,P04036,K00215,,DHDPRy,DHDPRy,1ARZ,1ARZ,Esherichia coli K12,eco:b0031,P04036,E38,NAD,100,dapB
+b0116,lpdA,P0A9P0,K00382,,AKGDH;GLYCL;PDH,AKGDH;GLYCL;PDH,4JDR,1LVL,Psuedomonas putida,ppu:PP_4404,P09063,E201,NAD,,lpdV (structural is from different strain)
+b0173,dxr,P45568,K00099,,DXPRIi,DXPRIi,3ANL,3ANL,Esherichia coli K12,eco:b0173,P45568,K47;R48;T20,NADPH,100,Binding through peptide backbone
+b0243,proA,P07004,K00147,,G5SD,G5SD,None,None,,,,,,,
+b0311,betA,P17444,K00108,,CHOLD,CHOLD,None,None,,,,,,,
+b0347,mhpA,P77397,K05712,,3HCINNMH;3HPPPNH,3HCINNMH;3HPPPNH,None,None,,,,,,,
+b0351,mhpF,P77580,K04073,Not unique,,,None,5J71,Parageobacillus thermoglucosidasius C56-YS93,,A0A654KSY2,None,ADP,,ADP bound
+b0356,frmA,P25437,K00121,,ALCD19;FALDH2,ALCD19;FALDH2,None,3UKO,Arabidopsis thaliana,ath:AT5G43940,Q96533,D226,NAD,59.1,NADH bound
+b0386,proC,P0A9L8,K00286,,P5CR,P5CR,None,3TRI,Coxiella burnetii (strain RSA 493 / Nine Mile phase I),cbu:CBU_2090,Q83A21,N36;R37;S38;K41,,36%,
+b0425,panE,P0A9J4,K00077,,,,1YJQ,1YJQ,Esherichia coli K12,eco:b0425,P0A9J4,R31,NADPH,100,NADPH
+b0509,glxR,P77161,K00042,Not unique,,,None,None,,,,,,,Related GRHPR from humans (different orthogroup)
+b0529,folD,P24186,K01491,,MTHFD,MTHFD,1B0A,6V6Y,Thermus thermophilus,ttj:TTHA1120,Q5SJ94,R163;S187;K188,NADP,46.7,
+b0596,entA,P15047,K00216,,DHBD,DHBD,2FWM,None,,,,,,,
+b0662,ubiF,P75728,K03184,,,OMMBLHX3,None,None,,,,,,,
+b0888,trxB,P0A9P4,K00384,,TRDR,TRDR,1TDF,1TDF,Esherichia coli K12,eco:b0888,P0A9P4,R176;R177;R181,NADPH,100,NADPH
+b1033,ghrA,P75913,K12972,Not unique,,,6OVL,6OVL,Esherichia coli K12,eco:b1033,P75913,K176;Y318;T174,,,
+b1093,fabG,P0AEK2,K00059,,3OAR100;3OAR120;3OAR121;3OAR140;3OAR141;3OAR160;3OAR161;3OAR180;3OAR181;3OAR40;3OAR60;3OAR80;OGMEACPR;OPMEACPR,3OAR100;3OAR120;3OAR121;3OAR140;3OAR141;3OAR160;3OAR161;3OAR180;3OAR181;3OAR40;3OAR60;3OAR80;OGMEACPR;OPMEACPR,1Q7B,1Q7B,Esherichia coli K12,eco:b1093,P0AEK2,S14;R15;T37,,100,
+b1109,ndh,P00393,K03885,,NADH10;NADH5;NADH9,NADH10;NADH5;NADH9,None,None,,,,,,,
+b1210,hemA,P0A6X1,K02492,,GLUTRR,GLUTRR,None,5YJL,Arabidopsis thaliana,ath:AT1G58290,P42804,R239;S240;R243(N238),NADP,30%,NADP bound
+b1288,fabI,P0AEK4,K00208,,EAR100x;EAR100y;EAR120x;EAR120y;EAR121x;EAR121y;EAR140x;EAR140y;EAR141x;EAR141y;EAR160x;EAR160y;EAR161x;EAR161y;EAR180x;EAR180y;EAR181x;EAR181y;EAR40x;EAR40y;EAR60x;EAR60y;EGMEACPR;EAR80x;EAR80y;EPMEACPR,EAR100x;EAR120x;EAR121x;EAR140x;EAR141x;EAR160x;EAR161x;EAR180x;EAR181x;EAR40x;EAR60x;EAR80x;EAR100y;EAR120y;EAR121y;EAR140y;EAR141y;EAR160y;EAR161y;EAR180y;EAR181y;EAR40y;EAR60y;EAR80y;EGMEACPR;EPMEACPR,1D8A,1D8A,Esherichia coli K12,eco:b1288,P0AEK4,Unclear,,,
+b1300,puuC,P23883,K09472,,ALDD2x;GGGABADr,ALDD2x;GGGABADr,None,5GTK;5GTL,Bacillus cereus,,A0A150BLG9,,,41,Structures for both NAD/NADP
+b1380,ldhA,P52643,K03778,Not unique,,,5Z1Z,4CUK,Salmonella enterica,stt:t1550,Q8Z780,D174,NAD,94.5,
+b1385,feaB,P80668,K00146,,ALDD19xr,ALDD19xr,None,None,,,,,,,
+b1395,paaH,P76083,K00074,,HADPCOADH3,HADPCOADH3,3MOG,None,,,,,,,"some orthologs from rasolonia eutropha; NAD and NADP bound, very little sequence similarity (~7%)"
+b1478,adhP,P39451,K13953,,,ALCD2x,4GKV,4GKV,Esherichia coli K12,eco:b1478,P39451,D193,NAD,,
+b1479,maeA,P26616,K00027,,ME1,ME1,6AGS,5CEE,Aster yellows witches'-broom phytoplasma (strain AYWB),ayw:AYWB_051,Q2NK75,D215,NAD,22,sfcA; K00027 orthogroup
+b1525,sad,P76149,K08324,,SSALx,SSALx,None,3EFV,Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720),,Q8ZPI3,K160,NAD,81,
+b1539,ydfG,P39831,K16066,,ATHRDHr;DSERDHr;LSERDHr,ATHRDHr;DSERDHr;LSERDHr,3ASV,3ASV,Esherichia coli K12,eco:b1539,P39831,R32;R33,,,
+b1606,folM,P0AFS3,K13938,,DHMPTR,DHMPTR,None,None,,,,,,,
+b1692,ydiB,P0A6D5,K05887,,QUINDH,QUINDH,1VI2,1VI2,Esherichia coli K12,eco:b1692,P0A6D5,Unclear,,100,Looks to accept both NAD or NADP; a lot of selenomethione molecules near NAD
+b1746,astD,P76217,K06447,,SGSAD,SGSAD,None,3JU8,Pseudomonas aeruginosa (ATCC 15692),pae:PA0898,O50174,E173,NAD,61,Two confromations in crystal structure; potentially stabilizs H bonds with 2'OH hydroxyl
+b1761,gdhA,P00370,K00262,,GLUDy,GLUDy,"4FCC,4BHT,3SBO,4FHN",5IJZ,Corynebacterium glutamicum ATCC 13032,cgb:cg2280,P31026,K136;R290;S265,NADP,57,Paper cited with e coli + structural modeling/ligand docking
+b1779,gapA,P0A9B2,K00134,,GAPD,GAPD,1GAD,1GAD,Esherichia coli K12,eco:b1779,P0A9B2,D34,NAD,100,
+b1852,zwf,P0AC53,K00036,,G6PDH2r,G6PDH2r,None,;6E07,Homo sapiens,hsa:2539,P11413,Unclear,NADP,35,NADP bound is structural near C-terminus; N terminal NADP doesn't appear to be bound
+b2020,hisD,P06988,K00013,,HISTD,HISTD,"1KAE,1K75,1KAH,1KA",1KAE,Esherichia coli K12,eco:b2020,P06988,D59,NAD,100,"NAD in close proximity to Asp59, but not directly interacting via crystal structure"
+b2028,ugd,P76373,K00012,,UDPGD,UDPGD,None,3PLR,Klebsiella pneumoniae,eco:b2028,A0A0J9WZA6,D29,NAD,83,Clear association between NAD ribose and aspartate
+b2029,gnd,P00350,K00033,,GND,GND,"2ZYD,3FWN,2ZYA",2IYP,Lactococcus lactis,llm:llmg_0586,P96789,R34;T35;K38,NADP,67.8,NADP
+b2040,rfbD,P37760,K00067,,TDPDRR,TDPDRR,None,1KC1,Salmonella enterica subsp. enterica serovar Typhimurium,stm:STM2096,P26392,D30,NAD,84.9,1KC1 (NADPH); 1N2S (NADH); phosphate is completely exposed and not selective; D30 gets occluded
+b2052,fcl,P32055,K02377,,GOFUCR,GOFUCR,1E6U,1E6U,Esherichia coli K12,eco:b2052,P32055,R36,,,
+b2091,gatD,P0A9S3,K00094,,GLTPD,GLTPD,"4UEJ,4A2C,4UEK,4UEO",None,,,,,,,
+b2146,preT,P76440,K17722,,DURADx,DURADx,None,None,,,,,,,
+b2255,arnA,P77398,K10011,,UDPGDC,UDPGDC,None,None,,,,,,,
+b2320,pdxB,P05459,K03473,,PERD,PERD,None,3OET,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,stm:STM2370,P60802,D146,NAD,88.7,NAD
+b2341,fadJ,P77399,K01782,Not unique,,,None,None,,,,,,,
+b2463,maeB,P76558,K00029,,ME2,ME2,None,None,,,,,,,
+b2508,guaB,P0ADG7,K00088,,IMPD,IMPD,None,4ZQM,Mycobacterium tuberculosis H37Rv,mtu:Rv3411c,P9WKI7,Unclear,,49.8,"No apparent specificity for NAD based on structural features; hydrophobic amino acids (Valine, Leucine) appear in close proximity to ribose hydroxyl groups"
+b2541,hcaB,P0CI31,K05711,,DHCIND;DHPPD,DHCIND;DHPPD,None,None,,,,,,,
+b2542,hcaD,P77650,K00529,,CINNDO;PPPNDO,CINNDO;PPPNDO,None,4H4Y,Acidovorax sp. KKS102,,,,,31,Only mutants/unpublished; attempted to change coenzyme specificity
+b2661,gabD,P25526,K00135,Not unique,,,3JZ4,3JZ4,Esherichia coli K12,eco:b2661,P25526,K179;S182,,100,
+b2705,srlD,P05707,K00068,,SBTPD,SBTPD,None,None,,,,,,,
+b2711,norW,P37596,K12265,,NHFRBO,NHFRBO,None,None,,,,,,,
+b2868,xdhC,Q46801,K13480,,HXAND;XAND,HXAND,None,None,,,,,,,
+b2906,ubil,P25535,K18800,,,OPHHX3,4K22,None,,,,,,,
+b2907,ubiH,P25534,K03185,,,OMPHHX3,None,None,,,,,,,
+b2913,serA,P0A9T0,K00058,,PGCD,PGCD,1YBA,1YBA,Esherichia coli K12,eco:b2927,P0A9T0,R240,,,Strange arginine
+b2927,epd,P0A9B6,K03472,Not unique,,,"2X5J,2X5K,2XF8",None,,,,,,,
+b3028,mdaB,P0AEY5,K03923,,NADPHQR2;NADPHQR3;NADPHQR4,NADPHQR2;NADPHQR3;NADPHQR4,"2AMJ,2B3D",None,,,,,,,
+b3213,gltD,P09832,K00266,,GLUSy,GLUSy,None,4YRY,Thermotoga maritima,,,,,13,Same orthogroup; annotated as different reaction
+b3236,mdh,P61889,K00024,,MDH,MDH,"3HHP,5KKA,2CMD,1EMD,1IB6,2PWZ,5Z3W,1IE3",1EMD,Esherichia coli K12,eco:b3236,P61889,D34,NAD,,NAD
+b3281,aroE,P15770,K00014,Not unique,,,1NYT,1NYT,Esherichia coli K12,eco:b3281,P15770,R150;T151;R154,NADP,,NADP
+b3365,nirB,P08201,K00362,,NTRIR2x,NTRIR2x,None,None,,,,,,,
+b3368,cysG,P0AEA8,K02302,,SHCHD2,SHCHD2,None,1PJS,Salmonella enterica subsp. enterica serovar Typhimurium,sty:STY4319        ,P25924,Backbone,,90.4,Multifunctional enzyme
+b3433,asd,P0A9Q9,K00133,,ASAD,ASAD,"1T4B,1T4D,1BRM,1GL3",5BNT,Pseudomonas aeruginosa (strain ATCC 15692),pae:PA3117,Q51344,R10;T36;S38,NADP,68.6,
+b3500,gor,P06715,K00383,,GTHOr,GTHOr,1GET,1GET,Esherichia coli K12,eco:b3500,P06715,R198;K199;R204,NADP,100,
+b3553,ghrB,P37666,K00090,,2DGULRGx;2DGULRGy;2DGULRx;2DGULRy;DKGLCNR2x;DKGLCNR2y,2DGULRGx;2DGULRx;DKGLCNR2x;2DGULRGy;2DGULRy;DKGLCNR2y,None,6BII,Pyrococcus yayanosii CH1,pya:PYCH_09300,F8AEA4,R181;S182;K184,NADP,43,NADP
+b3588,aldB,P37685,K00138,,ALDD2y;ALDD3y,ALDD2y;ALDD3y,None,None,,,,,,,
+b3600,mltD,P09424,K00009,,M1PD,M1PD,None,None,,,,,,,3H2Z (unbound homolog)
+b3608,gpsA,P0A6S7,K00057,,G3PD2,G3PD2,None,1Z82,Thermotoga maritima MSB8,trq:TRQ2_0543,A0A0F6AK91,R33;R34;Y49,NADPH,38.4,NADPH
+b3616,tdh,P07913,K00060,,THRD,THRD,None,2EJV,Thermotoga maritima MSB8,ttj:TTHA0569,Q5SKS4,D196,NAD,42.4,NAD
+b3774,ilvC,P05793,K00053,,KARA1;KARA2,KARA1;KARA2,3ULK,3ULK,Esherichia coli K12,eco:b3774,P05793,R68;R76;S78,NADPH,100,NADPH
+b3787,wecC,P27829,K02472,,UACMAMO,UACMAMO,None,3OJL,Staphylococcus aureus,sas:SAS0138,P95708,D30,NAD,39.6,NAD
+b3844,fre,P0AEN1,K05368,,FLVRx;FADRx,FADRx;FLVRx,1QFJ,None,,,,,,,
+b3846,fadB,P21177,K01825,Not unique,,,6TNM,1WDK,Pseudomonas fragi,pfz:AV641_07030,P28793,D344,,55.9,"NADH (6TNM has ATP bound, shows D343)"
+b3882,yihU,P0A9V8,K08318,,GHBDHx,GHBDHx,None,None,,,,,,,
+b3945,gldA,P0A9S5,K00005,,ALR4x;APPLDHr;GLYCDx;LALDO2x,ALR4x;APPLDHr;GLYCDx;LALDO2x,5ZXL,1JQ5,Geobacillus stearothermophilus,,P32816,D39,,49.1,NADH (only one H bond)
+b3958,argC,P11446,K00145,,AGPR,AGPR,None,2I3G,Mycobacterium tuberculosis,mtu:Rv1652,P9WPZ9,S18;T49;S50,,35,NADP
+b4266,idnO,P0A9P9,K00046,,5DGLCNR,5DGLCNR,None,5U9P,Burkholderia cenocepacia ,bcj:BCAL3386,B4EEX4,R22;R44,,55.3,NADP
+b4267,idnD,P39346,K00098,,IDOND;IDOND2,IDOND;IDOND2,6DKH,None,,,,,,,
+b0029,ispH,P62623,K03527 ,,DMPPS;IPDPS,IPDPS;DMPPS,"4H4D,3SZU,3URK,3UV3,3UV7,3SZL,3SZO,3ZGL,4MUX,4H4E,3UV6",None,,,,,,,
+b0048,folA,P0ABQ4,K00287,Not unique,,,"4PTH,4PSY,4PSS,6CW7,4RGC,4PTJ,4PST,6CXK,4P3R,4NX7,4KJJ",4PTH,,,,R44;S63;Q65,NADP,,
+b0073,leuB,P30125,K00052,,IPMD,IPMD,1CM7,4XXV,Burkholderia thailandensis ,bte:BTH_II0674,Q2T7H6 ,D284,NAD,50.5,
+b0104,guaC,P60560,K00364,,GMPR,GMPR,None,2C6Q,Homo sapiens,hsa:51292,Q9P2T1,Y285;R286;S26;R27,NADP,68.7,
+b0207,dkgB,P30863,K06222,Not unique,,,None,None,,,,,,,
+b0312,betB,P17445,K00130,,BETALDHx;BETALDHy,BETALDHx;BETALDHy,None,6WSB,Burkholderia pseudomallei 1710b,bpm:BURPS1710b_A0376,Q3JLL8,E179;K176,NAD,71,
+b0414,ribD,P25539,K11752,,APRAUR,APRAUR,2O7P,2O7P,,,,S196;S234(Q235;R2377),NADP,,
+b0517,allD,P77555,K00073,,URDGLYCD,URDGLYCD,4H8A,4H8A,,eco:b0517,,D174,NADH,,Nitrogen source dependent
+b0578,nfsB,P38489,K10679,,,,"1YLR,1YKI,1ICR,1ICU,3X22,1YLU,1OOQ,1OO6,1IDT,1DS7,1ICV",None,,,,,,,7JH4 has nitoninc acid bound (missannotated in PDB)
+b0628,lipA,P60716,K03644,,LIPOS,,None,None,,,,,,,unclear why this is included in this list
+b0937,ssuE,P80644,K00299,,,,"6DQP,6DQO,4PTZ,6DQI,4PTY,4PU0",4LTN,EDTA-degrading bacterium BNC1,,Q9F9T2,No interactions,NADH,33,E coli enzyme is NADPH dependent
+b1008,rutE,P75894,K09019,,,,None,None,,,,,,,
+b1010,rutC,P0AFQ,K09021,,POAACR,,3V4D,None,,,,,,,
+b1014,putA,P09546,K13821,,P5CD,,"3E2Q,4JNZ,3E2R,4JNY,2GPE,4O8A,3E2S,2FZN,1TJ1,1TIW,1TJ2",5KF6,Sinorhizobium meliloti (strain SM11),smx:SM11_chr0102,F7X6I3,K730;E733,NAD,56.5,Weakly selective
+b1136,icd,P08200,K00031,,ICDHyr,,"1PB1,1PB3,4AJS,4AJA,1P8F,4AJB,4AJ3,1AI2,1AI3,1ISO,4BNP",4AJ3,,eco:b1136,,Y345;Y391,NADP,,Potentially K344; R292
+b1241,adhE,P0A9Q7,K04072,,,,6AHC,6TQH,,eco:b1241,,D487,NAD,,1 H bond; Cyro EM
+b1387,paaZ,P77455,K02618,,OXCOAHDH,,"6JQL,6JQN,6JQO,6JQM",6JQM,,eco:b1387,,R20;T184,NADPH,,
+b1392,paaE,P76081,K02613,,PACCOAE,,None,None,,,,,,,
+b1415,aldA,P25553,K07248,,GCALDD;LCADi,,"2IMP,2HG2,2OPX,2ILU",2IMP,,eco:b1415,,K176;E179,NADH,,1 H bond with Glutamate
+b1444,patD,P77674,K00137,,ABUTD,,"1WND,1WNB",1WNB,,eco:b1444,,K172;E175,NADH,,1 H bond with Glutamate
+b1521,uxaB,P0A6L7,K00041,,TAGURr,,None,None,,,,,,,
+b1638,pdxH,P0AFI7,K00275,,,,"1DNL,1G79,1JNW,1G77,1G76,1G78,1WV",None,,,,,,,
+b1800,dmlA,P76251,K07246,,MALDDH,,None,3FMX,Pseudomonas putida,psyr:N018_15330,Q51945,D290,NADH,75.9,Potential assistance of R230
+b2133,dld,P06149,K03777,,,,1F0X,None,,,,,,,
+b2284,nuoF,P31979,K00335,,NADH16pp;NADH17pp;NADH18pp,,None,3IAM,Thermus thermophilus HB8,ttj:TTHA0089,Q56222,E183,NADH,44.7,
+b2552,hmp,P24232,K05916,,NODOx;NODOy,,1GVH,None,,,,,,,
+b2600,tyrA,P07023,K14187,,PPND,,None,2PV7,Haemophilus influenzae,hin:HI1290,P43902,D131,NADH,57,Potential assistance of R132
+b2764,cysJ,P38038,K00380,,FADRx2;SULR,,"1DDG,6EFV,1DDI,1YKG",1DDI,,,,Y527;K525;R520,NADP,,structure is problematic; the ligand that is represented doesn't match NADP
+b2794,queF,Q46920,K06879,,CDGR,,None,3UXJ,Vibrio cholerae serotype O1,vch:VC0902,Q9KTK0,Unclear,,,structure is problematic; the ligand that is represented doesn't match NADP
+b2799,fucO,P0A9S1,K00048,,LCARS,,"5BR4,1RRM,2BL4,2BI4",2BL4,,eco:b2799,,D39,NAD,,
+b3001,gpr,Q46851,K19265,,,,"3N6Q,4AUB,4AST",4AUB,,eco:b3001,,S303;Q307,NADP,,
+b3012,dkgA,Q46857,K06221,,,,1MZR,None,,,,,,,
+b3125,garR,P0ABQ2,K00042,,,,None,5JE8,Bacillus cereus ATCC 14579,bce:BC2289,Q81DR6,D31,NAD,33.8,N33 makes a single hydrogen bond too
+b3551,bisC,P20099,K08351,,BSORx;BSORy,,None,None,,,,,,,
+b3575,yiaK,P37672,K08092,,DOGULNR,,"1NXU,1S20",1S20,,eco:b3575,,E306,NAD,,
+b3924,fpr,P28861,K00528,,FLDR2,,"1FDR,2XNJ",2XNJ,,eco:b3924,,S182;R183;R193,NADP,,
+b3940,metL,P00562,K12525,,,,None,None,,,,,,,
+b3941,metF,P0AEZ1,K00297,,MTHFR2,,"3FST,3FSU,1ZP3,1ZP4,1ZPT,2FMN,1ZRQ,2FMO,1B5T,6PEY",1ZP4,,eco:b3941,,T59,NADH,,L277 could exclused phosphate on 2' hydroxyl from NADP
+b3972,murB,P08373,K00075,,UAPGR,,"1UXY,2MBR,1MBB,2Q85,1MBT",4JAY,Pseudomonas aeruginosa PAO1,pae:PA2977,Q9HZM7,Y196;K272,NADP,42.2,
+b3991,thiG,P30139,K03149,,TYRL,,None,None,,,,,,,Not NAD/NADP binding
+b3994,thiC,P30136,K03147,,AMPMS2,,None,None,,,,,,,Not NAD/NADP binding
+b4323,uxuB,P39160,K00040,,MANAO,,None,4IM7,Escherichia coli O6:H1,ecd:ECDH10B_1673,A0A0H2V7F2,N59,NADH,56.2,"Mostly through backbone interactions, no room for phosphate"

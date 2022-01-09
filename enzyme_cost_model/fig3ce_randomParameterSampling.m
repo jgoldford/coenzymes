@@ -17,7 +17,7 @@ clear
 % define number of reactions and coenzymes
 
 % define number of simulations
-numReals = 100;
+numReals = 1;
 mu_k = 6;
 var_k = 1;
 min_ratio = nan(numReals,1);

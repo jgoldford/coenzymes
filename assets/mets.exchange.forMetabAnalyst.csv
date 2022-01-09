@@ -1,0 +1,281 @@
+,Metabolite
+0,"(S)-Propane-1,2-diol"
+1,"1,4-alpha-D-glucan"
+2,"2',3'-Cyclic AMP"
+3,"2',3'-Cyclic CMP"
+4,"2',3'-Cyclic GMP"
+5,"2',3'-Cyclic UMP"
+6,"2,3-diaminopropionate"
+7,2-Dehydro-3-deoxy-D-gluconate
+8,3'-AMP
+9,3'-cmp
+10,3'-GMP
+11,3-hydroxycinnamic acid
+12,3-(3-hydroxy-phenyl)propionate
+13,3'-UMP
+14,4-Aminobutanoate
+15,5-Dehydro-D-gluconate
+16,L-alanine-D-glutamate
+17,"L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate"
+18,"L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine"
+19,L-alanine-L-glutamate
+20,Acetate
+21,Acetoacetate
+22,Acetaldehyde
+23,N-Acetyl-D-glucosamine
+24,N-Acetyl-D-glucosamine 1-phosphate
+25,N-Acetyl-D-mannosamine
+26,N-Acetylmuramate
+27,N-Acetylneuraminate
+28,Adenine
+29,Adenosine
+30,Agmatine
+31,2-Oxoglutarate
+32,D-Alanine
+33,L-Alanine
+34,D-Alanyl-D-alanine
+35,D-Allose
+36,Allantoin
+37,AMP
+38,N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramic acid
+39,L-Arabinose
+40,L-Arginine
+41,L-Ascorbate
+42,L-Asparagine
+43,L-Aspartate
+44,Butyrate (n-C4:0)
+45,Butanesulfonate
+46,Cys-Gly
+47,Chitobiose
+48,Citrate
+49,CMP
+50,D-Cysteine
+51,L-Cysteine
+52,Cytidine
+53,Deoxyadenosine
+54,DAMP
+55,Decanoate (n-C10:0)
+56,DCMP
+57,Deoxycytidine
+58,Dodecanoate (n-C12:0)
+59,DGMP
+60,Deoxyguanosine
+61,Dihydroxyacetone
+62,DIMP
+63,Deoxyinosine
+64,DTMP
+65,DUMP
+66,Deoxyuridine
+67,Ethanolamine
+68,Ethanol
+69,D-fructose 6-phosphate
+70,Formaldehyde
+71,Fe(III)dicitrate
+72,Formate
+73,D-Fructose
+74,Fructoselysine
+75,D-Fructuronate
+76,L-Fucose
+77,Fumarate
+78,D-Glucose 1-phosphate
+79,Sn-Glycero-3-phosphocholine
+80,Sn-Glycero-3-phosphoethanolamine
+81,Glycerophosphoglycerol
+82,Sn-Glycero-3-phospho-1-inositol
+83,Glycerophosphoserine
+84,D-Glucose 6-phosphate
+85,D-Galactose
+86,Beta D-Galactose
+87,Alpha-D-Galactose 1-phosphate
+88,D-Galactarate
+89,D-Galactonate
+90,L-Galactonate
+91,Galactitol
+92,D-Galacturonate
+93,D-Glucosamine
+94,D-Glucosamine 6-phosphate
+95,D-Glucose
+96,D-Gluconate
+97,D-Glucarate
+98,D-Glucuronate
+99,D-Glucuronate 1-phosphate
+100,L-Glutamine
+101,L-Glutamate
+102,Glycine
+103,D-Glyceraldehyde
+104,Glycerol
+105,(R)-Glycerate
+106,Glycerol 2-phosphate
+107,Glycerol 3-phosphate
+108,Glycolate
+109,GMP
+110,Guanosine
+111,Reduced glutathione
+112,Guanine
+113,Hexadecanoate (n-C16:0)
+114,Hexadecenoate (n-C16:1)
+115,Hexanoate (n-C6:0)
+116,Hypoxanthine
+117,L-Idonate
+118,IMP
+119,Inosine
+120,D-lactate
+121,L-Lactate
+122,Lactose
+123,L-Lyxose
+124,D-Malate
+125,L-Malate
+126,Maltose
+127,Maltohexaose
+128,Maltopentaose
+129,Maltotriose
+130,Maltotetraose
+131,D-Mannose
+132,D-Mannose 6-phosphate
+133,2(alpha-D-Mannosyl)-D-glycerate
+134,Melibiose
+135,D-Mannitol
+136,Octadecanoate (n-C18:0)
+137,Octadecenoate (n-C18:1)
+138,Octanoate (n-C8:0)
+139,Ornithine
+140,Phenylacetaldehyde
+141,Phenethylamine
+142,Propionate
+143,Propanal
+144,Phenylpropanoate
+145,L-Proline
+146,L-Prolinylglycine
+147,Psicoselysine
+148,O-Phospho-L-serine
+149,Putrescine
+150,Pyruvate
+151,Alpha-D-Ribose 5-phosphate
+152,D-Ribose
+153,L-Rhamnose
+154,D-Sorbitol
+155,D-Serine
+156,L-Serine
+157,Succinate
+158,Sucrose
+159,D-tartrate
+160,L-tartrate
+161,L-Threonine
+162,L-Threonine O-3-phosphate
+163,Thymidine
+164,Trehalose
+165,L-Tryptophan
+166,Tetradecanoate (n-C14:0)
+167,Tetradecenoate (n-C14:1)
+168,UDP-N-acetyl-D-glucosamine
+169,UDP-N-acetyl-D-galactosamine
+170,UDPglucose
+171,UDPgalactose
+172,UDP-D-glucuronate
+173,UMP
+174,Uridine
+175,Xanthine
+176,Xanthosine 5'-phosphate
+177,Xanthosine
+178,D-Xylose
+179,L-Xylulose
+0,"2',3'-Cyclic AMP"
+1,"2',3'-Cyclic CMP"
+2,"2',3'-Cyclic GMP"
+3,"2',3'-Cyclic UMP"
+4,"2,3-diaminopropionate"
+5,3'-AMP
+6,3'-cmp
+7,3'-GMP
+8,3'-UMP
+9,4-Aminobutanoate
+10,"L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine"
+11,"L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate"
+12,L-alanine-D-glutamate
+13,L-alanine-L-glutamate
+14,N-Acetyl-D-glucosamine 1-phosphate
+15,N-Acetyl-D-glucosamine
+16,N-Acetyl-D-mannosamine
+17,N-Acetylmuramate
+18,N-Acetylneuraminate
+19,Adenine
+20,Adenosine
+21,Agmatine
+22,D-Alanine
+23,L-Alanine
+24,D-Alanyl-D-alanine
+25,Allantoin
+26,AMP
+27,N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramic acid
+28,L-Arginine
+29,L-Asparagine
+30,L-Aspartate
+31,Cys-Gly
+32,Chitobiose
+33,CMP
+34,Cytosine
+35,Cyanate
+36,D-Cysteine
+37,L-Cysteine
+38,Cytidine
+39,Deoxyadenosine
+40,DAMP
+41,DCMP
+42,Deoxycytidine
+43,DGMP
+44,Deoxyguanosine
+45,DIMP
+46,Deoxyinosine
+47,Dopamine
+48,DUMP
+49,Deoxyuridine
+50,Ethanolamine
+51,Sn-Glycero-3-phosphoethanolamine
+52,Glycerophosphoserine
+53,D-Glucosamine 6-phosphate
+54,D-Glucosamine
+55,L-Glutamine
+56,L-Glutamate
+57,Glycine
+58,GMP
+59,Guanosine
+60,Reduced glutathione
+61,Guanine
+62,Hypoxanthine
+63,IMP
+64,Inosine
+65,Ammonia
+66,Nitrite
+67,Nitrate
+68,Nitric oxide
+69,Ornithine
+70,Orotate
+71,Phenethylamine
+72,L-Proline
+73,L-Prolinylglycine
+74,O-Phospho-L-serine
+75,Putrescine
+76,D-Serine
+77,L-Serine
+78,L-Threonine
+79,L-Threonine O-3-phosphate
+80,L-Tryptophan
+81,Tyramine
+82,UDP-N-acetyl-D-glucosamine
+83,UDP-N-acetyl-D-galactosamine
+84,UDPglucose
+85,UDPgalactose
+86,UDP-D-glucuronate
+87,UMP
+88,Uracil
+89,Uridine
+90,Xanthine
+91,Xanthosine 5'-phosphate
+92,Xanthosine
+0,Trimethylamine N-oxide
+1,Dimethyl sulfoxide
+2,Fumarate
+3,O2
+4,Nitrite
+5,Nitrate
+6,None

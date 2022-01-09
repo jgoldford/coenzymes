@@ -1,0 +1,10 @@
+﻿Coenzyme Pair,Type,Charged,Uncharged
+NAD/NADH,Electrons: 320 mV,C00004,C00003
+NADP/NADPH,Electrons: 320 mV,C00005,C00006
+FAD/FADH2,Electrons: 220 mV,C01352,C00016
+FMN/FMNH2,Electrons: 220 mV,C01847,C00061
+Glutathione(RSSR)/Glutathione(RSH),Electrons: 220 mV,C00051,C00127
+CoA/Acetyl-CoA,Acetyl Groups,C00024,C00010
+ADP/ATP,Phosphate,C00002,C00008
+CDP/CTP,Phosphate,C00063,C00112
+GDP/GTP,Phosphate,C00044,C00035
